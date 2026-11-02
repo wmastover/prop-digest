@@ -1,0 +1,12 @@
+rss:
+  - name: Property Industry EYE
+    url: https://propertyindustryeye.com/feed
+  - name: The Negotiator
+    url: https://thenegotiator.co.uk/feed/
+  - name: Property Week
+    url: https://www.propertyweek.com/news/feed
+  - name: BBC Business
+    url: https://feeds.bbci.co.uk/news/business/rss.xml
+    filter: true
+  - name: Guardian Property
+    url: https://www.theguardian.com/money/property/rss
