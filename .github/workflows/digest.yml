@@ -61,6 +61,7 @@ jobs:
           GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           DIGEST_TO: ${{ secrets.DIGEST_TO }}
+          DIGEST_MODEL: anthropic/claude-haiku-5.5
         run: python digest.py
 
       - name: Commit state
@@ -68,7 +69,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add state/ property-digest-agent.md
+          git add state/ archive/ property-digest-agent.md
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else

@@ -13,7 +13,7 @@ Add these under **Settings → Secrets and variables → Actions** (or `gh secre
 | `GMAIL_APP_PASSWORD` | Gmail app password for that account |
 | `DIGEST_TO` | Where the digest goes. Replies go to this address with `+digest` added, so it should be the same mailbox as `GMAIL_ADDRESS` for the feedback loop to see them |
 
-Optional: `DIGEST_MODEL` (default `anthropic/claude-sonnet-5.5`) and `FEEDBACK_MODEL` (default `anthropic/claude-haiku-5.5`) as env vars.
+Optional: `DIGEST_MODEL` (default `anthropic/claude-sonnet-5.5`; the workflow currently sets Haiku) and `FEEDBACK_MODEL` (default `anthropic/claude-haiku-5.5`) as env vars.
 
 ## Gmail app password
 
@@ -26,8 +26,12 @@ Optional: `DIGEST_MODEL` (default `anthropic/claude-sonnet-5.5`) and `FEEDBACK_M
 - **Manually:** Actions tab → *Property Morning Digest* → **Run workflow**.
 - **Locally:** put the four values in `.env`, `pip install -r requirements.txt`, then `python digest.py --dry-run` (prints the subject and writes `preview.html`; sends nothing, skips feedback, saves no state).
 
-State (`state/covered.json`, `state/last_run.txt`) and preference updates are committed back to the repo after each run.
+- **Test send:** `python digest.py --test` sends a `[TEST]` email and archives it, but leaves `state/` alone so the next real run is unaffected.
+
+The model returns content only (JSON); `digest.py` checks it (no em dashes, no banned words, 500 to 800 words, links only to gathered articles, one retry on failure) and lays it out from a fixed template.
+
+State (`state/covered.json`, `state/last_run.txt`), preference updates and the archive are committed back to the repo after each run. `archive/YYYY-MM-DD.json` holds each edition's subject, model, stories and any failed checks; `archive/YYYY-MM-DD.html` is the exact email sent. The archive is never pruned.
 
 ## Clocks
 
-The cron `30 5 * * 1-5` is in UTC and lands around 6am in UK winter time (Actions can run up to 30 minutes late). When UK clocks go forward in March, change it to `30 4 * * 1-5` in `.github/workflows/digest.yml`, and back again in October.
+The crons in `.github/workflows/digest.yml` are in UTC and land around 6am UK winter time. When UK clocks go forward in March, move both an hour earlier, and back again in October. Edit them yourself on GitHub: scheduled runs belong to whoever last changed the cron lines, and they don't fire when that was a bot.

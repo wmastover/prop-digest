@@ -44,14 +44,16 @@ Write like the smartest person in the office explaining the news over a pint: sh
 The portal is putting branch fees up 8% from January. Agents have been moaning about portal costs for a decade, but with listings flat and fees rising, a few of the bigger groups are now openly saying they'll test cutting it. **Why it matters:** the portal can only keep doing this while nobody walks. Watch whether anyone actually does.
 
 ## Format
-Return a single HTML email body: inline styles only, single column, max width 600px, readable on a phone. Use a clean sans-serif font, generous line height, and bold headlines.
+Return content only, as a single JSON object. No HTML and no code fences: the email layout, styling, section emojis and footer are added for you. Fields:
 
-1. **Subject line:** `[Prop Digest] {short, punchy hook for the biggest story, under 8 words}`. Make it something they'd actually open.
-2. **Opener:** one or two lines setting up the day, with a bit of personality.
-3. **The big one:** the single most important story, 3 to 4 sentences, with a clear "why it matters".
-4. **The sections above**, each with an emoji in the heading. Each item: a bold headline, one to three sentences, and a source link ("Read more" or the publication name).
-5. **Quick hits:** up to four one-line items that didn't earn a full write-up.
-6. **Sign-off:** one line, then "Reply to this email to change what you get."
+1. **`subject`:** `[Prop Digest] {short, punchy hook for the biggest story, under 8 words}`. Make it something they'd actually open.
+2. **`opener`:** one or two lines setting up the day, with a bit of personality.
+3. **`big_one`:** the single most important story, as `{"headline", "text", "url", "source"}`. `text` is 3 to 4 sentences with a clear "why it matters".
+4. **`sections`:** the sections above, in that order, as `[{"name", "items": [{"headline", "text", "url", "source"}]}]`. `name` must be exactly one of: `Rules and politics`, `The numbers`, `Portals and big agencies`, `Who said what`, `Challengers`, `PropTech money`, `Elsewhere`. Leave out empty sections. Each item's `text` is one to three sentences.
+5. **`quick_hits`:** up to four one-line items that didn't earn a full write-up, as `[{"text", "url", "source"}]`.
+6. **`sign_off`:** one line. "Reply to this email to change what you get." is added after it automatically.
+
+`url` must be copied exactly from the article you're writing about, and `source` is that article's publication name. In any `text` you may wrap a short phrase in `**double asterisks**` for bold, e.g. `**Why it matters:**`. No other formatting.
 
 Total length: 500 to 800 words. British English.
 
