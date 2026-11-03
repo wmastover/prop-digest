@@ -1,6 +1,6 @@
 # Property Morning Digest
 
-Emails a daily UK residential property digest around 6am UK time on weekdays, built from the RSS feeds in `feeds.yaml` and written by Claude via OpenRouter. Reply to a digest to change what you get: replies are folded into the preferences block at the bottom of `property-digest-agent.md`.
+Emails a daily UK residential property digest around 6am UK time on weekdays, built from the RSS feeds in `feeds.yaml` and written by Claude via OpenRouter. Reply to a digest to change what you get: replies are folded into the preferences block at the bottom of `property-digest-agent.md`. Planned features are in [ROADMAP.md](ROADMAP.md).
 
 ## Secrets
 
