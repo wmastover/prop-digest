@@ -6,7 +6,7 @@ on:
     # was a bot/app (e.g. cursor[bot]) they never fired here, so only edit them as a real user.
     # The second slot is a backup: the guard step makes it a no-op once today's digest is sent.
     # Subtract an hour from both when UK clocks go forward (BST).
-    - cron: "17 5 * * 1-5"
+    - cron: "18 5 * * 1-5"
     - cron: "47 6 * * 1-5"
   workflow_dispatch:
     inputs:
