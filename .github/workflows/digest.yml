@@ -2,13 +2,18 @@ name: Property Morning Digest
 
 on:
   schedule:
-    # GitHub can delay or silently drop scheduled runs, so there is a backup slot; the guard
-    # step below makes the second one a no-op if the first already sent today's digest.
-    # Off-the-hour minutes avoid GitHub's busiest times. Subtract an hour from both when UK
-    # clocks go forward (BST).
+    # Scheduled runs belong to whoever last committed a change to these cron lines. When that
+    # was a bot/app (e.g. cursor[bot]) they never fired here, so only edit them as a real user.
+    # The second slot is a backup: the guard step makes it a no-op once today's digest is sent.
+    # Subtract an hour from both when UK clocks go forward (BST).
     - cron: "17 5 * * 1-5"
     - cron: "47 6 * * 1-5"
   workflow_dispatch:
+    inputs:
+      once_per_day:
+        description: "Skip if today's digest already went out (set by external cron callers)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -26,7 +31,7 @@ jobs:
 
       - name: Skip if today's digest already went out
         id: guard
-        if: github.event_name == 'schedule'
+        if: github.event_name == 'schedule' || inputs.once_per_day
         run: |
           python3 - <<'EOF' >> "$GITHUB_OUTPUT"
           from datetime import datetime, timezone
