@@ -1,0 +1,23 @@
+name: Sonnet credit check (temporary)
+
+on:
+  push:
+    branches: [main]
+    paths: [.github/workflows/sonnet-check.yml]
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+        run: |
+          code=$(curl -s -o r.json -w "%{http_code}" https://openrouter.ai/api/v1/chat/completions \
+            -H "Authorization: Bearer $OPENROUTER_API_KEY" -H "Content-Type: application/json" \
+            -d '{"model":"anthropic/claude-sonnet-5.5","max_tokens":8000,"reasoning":{"effort":"low"},"messages":[{"role":"user","content":"Say ok"}]}')
+          echo "sonnet_http=$code"
+          [ "$code" = 200 ] || head -c 300 r.json | sed -E 's#keys/[0-9a-f]+#keys/<id>#'
+          echo
+          curl -s https://openrouter.ai/api/v1/credits -H "Authorization: Bearer $OPENROUTER_API_KEY"; echo
+          curl -s https://openrouter.ai/api/v1/key -H "Authorization: Bearer $OPENROUTER_API_KEY" \
+            | python3 -c "import json,sys;d=json.load(sys.stdin)['data'];print({k:d.get(k) for k in ['limit','limit_remaining','limit_reset','usage','usage_daily','is_free_tier']})"
