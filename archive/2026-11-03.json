@@ -1,0 +1,75 @@
+{
+  "date": "2026-11-03",
+  "subject": "[TEST] [Prop Digest] Rent rises of 88% still getting through",
+  "model": "anthropic/claude-haiku-5.5",
+  "gathered": 12,
+  "test": true,
+  "opener": "Tuesday, and the tribunal that was supposed to tame rent rises is still letting big ones through. Grab a coffee, this one's short.",
+  "stories": [
+    {
+      "section": "The big one",
+      "text": "Rent increases of up to 88% are still being approved in England, despite Labour's pledge to curb unfair rises. Tenants and landlords both told the Guardian the rent tribunal system is \"not working for anyone\". Challenges are at record levels since the Renters' Rights Act came into force in May, and the process is easier and less risky for renters than it was. **Why it matters:** the Act made it cheaper to fight a rise, and tenants are doing it in numbers. But approvals at these levels suggest the tribunal is still a slow, uneven filter, so anyone advising on lettings should expect more disputes, not fewer.",
+      "url": "https://www.theguardian.com/society/2026/nov/03/big-rent-rises-passing-in-england-despite-renters-reform-act",
+      "source": "Guardian Property",
+      "headline": "Rent rises of up to 88% still getting approved in England"
+    },
+    {
+      "section": "Rules and politics",
+      "text": "Tax consultant Ryan says the relief scheme, meant to encourage investment in property improvements, has reached fewer than 2,000 premises. He argues the Autumn Budget failed to fix the scheme's limitations. **So what:** if you were counting on this for a refurb, don't bank on it yet.",
+      "url": "https://www.propertyweek.com/news/business-rates-investment-relief-reaches-fewer-than-2000-premises-as-autumn-budget-delays-reform",
+      "source": "Property Week",
+      "headline": "Business rates improvement relief has reached fewer than 2,000 premises"
+    },
+    {
+      "section": "Portals and big agencies",
+      "text": "Knight Frank has named Lynch as head of group strategy and executive office. He has over 20 years advising businesses and boards on strategy and was most recently director of group corporate strategy and development at BT. Strategy hires at the big groups are usually a sign of a shake-up coming, but the article doesn't say what he'll be asked to do.",
+      "url": "https://www.propertyweek.com/news/knight-frank-appoints-head-of-group-strategy-of-executive-office",
+      "source": "Property Week",
+      "headline": "Knight Frank appoints Lynch as head of group strategy and executive office"
+    },
+    {
+      "section": "Elsewhere",
+      "text": "Drax will provide land, power and grid access through its 4-gigawatt connection at Drax Power Station, while Brookfield supplies capital through a JV with Qai. Big money, but it's data centres, not homes. Only worth knowing if you're watching power and land prices in the North.",
+      "url": "https://www.propertyweek.com/news/drax-and-brookfield-team-up-for-20bn-north-yorkshire-data-centre-investment",
+      "source": "Property Week",
+      "headline": "Drax and Brookfield plan £20bn North Yorkshire data centre"
+    },
+    {
+      "section": "Elsewhere",
+      "text": "The joint venture will deliver a Farringdon aparthotel on a site Staycity bought in 2025 and has since taken to construction-ready stage, with permission for its Wilde flagship.",
+      "url": "https://www.propertyweek.com/news/penta-and-staycity-form-230m-jv-to-deliver-farringdon-aparthotel",
+      "source": "Property Week",
+      "headline": "Penta and Staycity form £230m JV for Farringdon aparthotel"
+    },
+    {
+      "section": "Quick hits",
+      "headline": "IWG shares jumped after Q3 revenue hit $1.03bn, and it expects 2026 adjusted EBITDA above the $599m consensus.",
+      "text": "IWG shares jumped after Q3 revenue hit $1.03bn, and it expects 2026 adjusted EBITDA above the $599m consensus.",
+      "url": "https://www.propertyweek.com/news/iwg-shares-jump-as-q3-revenue-reaches-1-03bn",
+      "source": "Property Week"
+    },
+    {
+      "section": "Quick hits",
+      "headline": "Pegasus has bought a grade II-listed Mayfair townhouse from Richardsons for its new HQ, with a £5m refurb planned.",
+      "text": "Pegasus has bought a grade II-listed Mayfair townhouse from Richardsons for its new HQ, with a £5m refurb planned.",
+      "url": "https://www.propertyweek.com/news/pegasus-acquires-prime-mayfair-office-for-new-hq",
+      "source": "Property Week"
+    },
+    {
+      "section": "Quick hits",
+      "headline": "NewArch Homes has secured a £25m revolving credit facility from Lloyds against its affordable housing portfolio.",
+      "text": "NewArch Homes has secured a £25m revolving credit facility from Lloyds against its affordable housing portfolio.",
+      "url": "https://www.propertyweek.com/news/newarch-homes-secures-25m-rcf-against-affordable-portfolio",
+      "source": "Property Week"
+    },
+    {
+      "section": "Quick hits",
+      "headline": "SUPR is targeting a £50m equity raise to fund £65m of acquisitions, including seven Sainsbury's convenience stores.",
+      "text": "SUPR is targeting a £50m equity raise to fund £65m of acquisitions, including seven Sainsbury's convenience stores.",
+      "url": "https://www.propertyweek.com/news/supr-targets-50m-equity-raise-to-fund-65m-acquisitions",
+      "source": "Property Week"
+    }
+  ],
+  "problems": [],
+  "words": 528
+}
