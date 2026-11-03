@@ -61,8 +61,6 @@ jobs:
           GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           DIGEST_TO: ${{ secrets.DIGEST_TO }}
-          # OpenRouter account has no credit, so Sonnet 402s. Remove this line once credits are added to go back to Sonnet.
-          DIGEST_MODEL: anthropic/claude-haiku-5.5
         run: python digest.py
 
       - name: Commit state
