@@ -9,9 +9,6 @@ on:
     - cron: "17 5 * * 1-5"
     - cron: "47 6 * * 1-5"
   workflow_dispatch:
-  push:
-    branches: [main]
-    paths: [.github/workflows/digest.yml]
 
 permissions:
   contents: write
