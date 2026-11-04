@@ -12,7 +12,7 @@ A simple backlog. One short entry per feature; bigger ones get a fuller write-up
 
 - **External cron as a backup trigger.** A cron-job.org job (Mon–Fri 05:25 Europe/London) calls the `workflow_dispatch` API with `{"ref":"main","inputs":{"once_per_day":"true"}}`, using a fine-grained token scoped to this repo with Actions: Read and write. The once-per-day guard makes it safe alongside GitHub's schedule. Free; about 10 minutes to set up; the token needs renewing when it expires.
 - **Clocks go forward (BST).** On the last Sunday of March, move both crons in `digest.yml` an hour earlier (`18 4` and `47 5`), and back in late October. Edit them yourself on GitHub, because the schedule only fires when a real user made the last cron change. The external cron above would handle this automatically via its timezone setting.
-- **Sonnet as an option.** Set `DIGEST_MODEL: anthropic/claude-sonnet-5.5` in `digest.yml` for sharper writing. Roughly 20p a day versus about 1p on Haiku. Worth a week's side-by-side using the archive.
+- **Sonnet as an option.** Set `digest_model: anthropic/claude-sonnet-5.5` in `config.yaml` for sharper writing. Roughly 20p a day versus about 1p on Haiku. Worth a week's side-by-side using the archive.
 
 ## Ideas
 

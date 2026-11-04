@@ -310,7 +310,8 @@ def save_state(covered, sent, now):
 
 def run(dry_run, test):
     now = datetime.now(timezone.utc)
-    model = os.environ.get("DIGEST_MODEL", DEFAULT_MODEL)
+    config = yaml.safe_load((ROOT / "config.yaml").read_text()) if (ROOT / "config.yaml").exists() else {}
+    model = os.environ.get("DIGEST_MODEL") or (config or {}).get("digest_model") or DEFAULT_MODEL
     prefix = "[TEST] " if test else ""
     covered = load_covered()
     items = gather(now, covered)

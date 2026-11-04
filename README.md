@@ -13,7 +13,7 @@ Add these under **Settings → Secrets and variables → Actions** (or `gh secre
 | `GMAIL_APP_PASSWORD` | Gmail app password for that account |
 | `DIGEST_TO` | Where the digest goes. Replies go to this address with `+digest` added, so it should be the same mailbox as `GMAIL_ADDRESS` for the feedback loop to see them |
 
-Optional: `DIGEST_MODEL` (default `anthropic/claude-sonnet-5.5`; the workflow currently sets Haiku) and `FEEDBACK_MODEL` (default `anthropic/claude-haiku-5.5`) as env vars.
+The digest model is set in `config.yaml` (currently Haiku). Change settings there rather than in the workflow file. `DIGEST_MODEL` and `FEEDBACK_MODEL` (default `anthropic/claude-haiku-5.5`) env vars still override.
 
 ## Gmail app password
 
