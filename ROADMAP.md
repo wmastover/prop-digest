@@ -4,13 +4,14 @@ A simple backlog. One short entry per feature; bigger ones get a fuller write-up
 
 ## Next
 
+- **External cron as the main trigger.** GitHub's schedule hasn't fired once in this repo. A cron-job.org job (Mon–Fri 05:25 Europe/London) calls the `workflow_dispatch` API with `{"ref":"main","inputs":{"once_per_day":"true"}}`, using a fine-grained token scoped to this repo with Actions: Read and write. The once-per-day guard makes it safe alongside GitHub's schedule. Free, about 5 minutes to set up, and the token needs renewing when it expires.
+- **Fix the Property Week feed.** `https://www.propertyweek.com/news/feed` now returns HTML instead of RSS, so it's skipped every run. Find the new feed URL or drop it.
 - **People spotlight.** A short "Who's this?" block for key people mentioned in an edition. See [People spotlight](#people-spotlight) below.
 - **Make the repo private.** It's public, so the prompt, state and every archived email are readable by anyone. Settings → General → Danger Zone → Change visibility.
 - **Test the quiet-day and FAILED email paths.** Neither has run for real yet. Force each once with `--test` (e.g. an empty `feeds.yaml` for quiet, a bad model ID for FAILED) and check both emails arrive and look right.
 
 ## Later
 
-- **External cron as a backup trigger.** A cron-job.org job (Mon–Fri 05:25 Europe/London) calls the `workflow_dispatch` API with `{"ref":"main","inputs":{"once_per_day":"true"}}`, using a fine-grained token scoped to this repo with Actions: Read and write. The once-per-day guard makes it safe alongside GitHub's schedule. Free; about 10 minutes to set up; the token needs renewing when it expires.
 - **Clocks go forward (BST).** On the last Sunday of March, move both crons in `digest.yml` an hour earlier (`18 4` and `47 5`), and back in late October. Edit them yourself on GitHub, because the schedule only fires when a real user made the last cron change. The external cron above would handle this automatically via its timezone setting.
 - **Sonnet as an option.** Set `digest_model: anthropic/claude-sonnet-5.5` in `config.yaml` for sharper writing. Roughly 20p a day versus about 1p on Haiku. Worth a week's side-by-side using the archive.
 
