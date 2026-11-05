@@ -1,0 +1,103 @@
+{
+  "date": "2026-11-05",
+  "subject": "[Prop Digest] Rightmove's £1.5bn case: now we wait",
+  "model": "anthropic/claude-haiku-5.5",
+  "gathered": 22,
+  "test": false,
+  "opener": "Rightmove's legal fight just went to the judges, landlords are getting more arrears, and Nationwide is doing the opposite of what you'd expect with rates. Coffee up, let's go.",
+  "stories": [
+    {
+      "section": "The big one",
+      "text": "The hearing on the £1.5bn legal action against Rightmove has finished, and the tribunal is holding its decision. A ruling on whether the claim proceeds, and how, is due in a few months. Property Industry EYE says around 13,000 agents are waiting on it. **Why it matters:** this is the first real test of whether the portal's position holds up against the agents who pay to be on it. **My take:** a few months is a long time for the rest of the industry to sit on its hands, so expect plenty of noise in the meantime.",
+      "url": "https://thenegotiator.co.uk/news/regulation-law-news/tribunal-reserves-judgment-as-rightmove-legal-hearing-ends/?utm_source=rss&utm_medium=rss&utm_campaign=tribunal-reserves-judgment-as-rightmove-legal-hearing-ends",
+      "source": "The Negotiator",
+      "headline": "Tribunal reserves judgement as Rightmove legal hearing ends"
+    },
+    {
+      "section": "Rules and politics",
+      "text": "Rent arrears are up 50% since the Renters’ Rights Act came in, according to Property Industry EYE. The piece says landlords are facing growing financial exposure. **Why it matters:** if arrears keep climbing, the cost of the new rules lands on landlords first, and agents managing their books will be the ones taking the calls.",
+      "url": "https://propertyindustryeye.com/rent-arrears-surge-50-in-wake-ofrenters-rights-act/",
+      "source": "Property Industry EYE",
+      "headline": "Rent arrears surge 50% in wake of Renters’ Rights Act"
+    },
+    {
+      "section": "The numbers",
+      "text": "UK rents rose in October, but void periods surged, which Property Industry EYE reads as the rental market starting to slow. **Why it matters:** rent growth is still positive, but empty homes are where agents' fees disappear. Watch voids more than headline rents from here.",
+      "url": "https://propertyindustryeye.com/rents-keep-climbing-but-warning-signs-emerge-for-letting-agents/",
+      "source": "Property Industry EYE",
+      "headline": "Rents keep climbing, but warning signs emerge for letting agents"
+    },
+    {
+      "section": "The numbers",
+      "text": "Goodlord’s latest Rental Index shows rent growth slowing and voids increasing as the market moves into its quieter period. **Why it matters:** this lines up with the October figures, so it's not a one-off blip.",
+      "url": "https://thenegotiator.co.uk/news/rental-market/rental-market-is-entering-its-winter-cool-down-claim/?utm_source=rss&utm_medium=rss&utm_campaign=rental-market-is-entering-its-winter-cool-down-claim",
+      "source": "The Negotiator",
+      "headline": "Rental market enters its “winter cool down”"
+    },
+    {
+      "section": "Portals and big agencies",
+      "text": "Chestertons has reopened its dedicated sales operation, nine years after folding it into the wider business. **Why it matters:** a rare U-turn in a sector that usually just keeps merging. Whether it works will depend on how much the split costs them.",
+      "url": "https://propertyindustryeye.com/chestertons-reverses-chelsea-sales-merger-after-nine-years/",
+      "source": "Property Industry EYE",
+      "headline": "Chestertons reverses sales merger after nine years"
+    },
+    {
+      "section": "Who said what",
+      "text": "Nationwide's Carlo Pileggi says market conditions let the lender cut its fixed rates, even as tracker rates go up. **Why it matters:** if you're on a tracker, that's your cue to check your deal and ask what you're actually paying.",
+      "url": "https://thenegotiator.co.uk/news/uk-housing-market-news/rate-rise-expected-today-as-nationwide-increases-trackers/?utm_source=rss&utm_medium=rss&utm_campaign=rate-rise-expected-today-as-nationwide-increases-trackers",
+      "source": "The Negotiator",
+      "headline": "Nationwide says market allows fixed-rate cuts as trackers rise"
+    },
+    {
+      "section": "Challengers",
+      "text": "Caspar Harvard-Walls, who has worked at Foxtons and Black Brick, has launched Oskar. He says it helps house hunters find on- and off-market homes that fit their exact needs. **Why it matters:** off-market listings are where agents have always kept their edge, so a tool that goes hunting for them is worth a sideways look.",
+      "url": "https://thenegotiator.co.uk/news/proptech/former-agent-launches-ai-powered-home-buying-tool/?utm_source=rss&utm_medium=rss&utm_campaign=former-agent-launches-ai-powered-home-buying-tool",
+      "source": "The Negotiator",
+      "headline": "Former agent launches AI-powered home buying tool"
+    },
+    {
+      "section": "PropTech money",
+      "text": "Supa, led by Upad founder Calum Brannan, has raised £21m. It plans to spend the money buying more market share through managing agent acquisitions. **Why it matters:** it's a roll-up playbook, and it's the same one that's been reshaping lettings agency for years.",
+      "url": "https://thenegotiator.co.uk/news/block-management-proptech-raises-21m-to-disrupt-inefficient-sector/?utm_source=rss&utm_medium=rss&utm_campaign=block-management-proptech-raises-21m-to-disrupt-inefficient-sector",
+      "source": "The Negotiator",
+      "headline": "Block management proptech raises £21m to disrupt ‘inefficient’ sector"
+    },
+    {
+      "section": "Elsewhere",
+      "text": "A study for the Home Builders Federation finds viability challenges are delaying or halting work for more than 60% of smaller housebuilders. Those firms are also buying fewer new sites and cutting staff. **Why it matters:** fewer small builders means fewer homes in the pipeline.",
+      "url": "https://www.propertyweek.com/news/over-60-of-sme-housebuilder-halt-work-amid-viability-challenges",
+      "source": "Property Week",
+      "headline": "Viability problems stall work for over 60% of SME housebuilders"
+    },
+    {
+      "section": "Quick hits",
+      "headline": "Thirdfort says compliance teams are under more pressure but still reluctant to fully adopt AI.",
+      "text": "Thirdfort says compliance teams are under more pressure but still reluctant to fully adopt AI.",
+      "url": "https://thenegotiator.co.uk/news/proptech/ai-adoption-remains-in-the-early-phases-among-agents/?utm_source=rss&utm_medium=rss&utm_campaign=ai-adoption-remains-in-the-early-phases-among-agents",
+      "source": "The Negotiator"
+    },
+    {
+      "section": "Quick hits",
+      "headline": "Former John Lewis Build to Rent boss Katherine Russell has launched a residential consultancy.",
+      "text": "Former John Lewis Build to Rent boss Katherine Russell has launched a residential consultancy.",
+      "url": "https://propertyindustryeye.com/former-john-lewis-housing-chief-launches-property-consultancy-after-retailer-exits-sector/",
+      "source": "Property Industry EYE"
+    },
+    {
+      "section": "Quick hits",
+      "headline": "Survey suggests buyers want more than a faster transaction, and upfront property information could help unlock quicker offers.",
+      "text": "Survey suggests buyers want more than a faster transaction, and upfront property information could help unlock quicker offers.",
+      "url": "https://propertyindustryeye.com/upfront-property-information-could-unlock-faster-offers-survey-suggests/",
+      "source": "Property Industry EYE"
+    },
+    {
+      "section": "Quick hits",
+      "headline": "Existing director Kieran Arthur becomes sole owner of Newton Fallowell Peterborough.",
+      "text": "Existing director Kieran Arthur becomes sole owner of Newton Fallowell Peterborough.",
+      "url": "https://thenegotiator.co.uk/news/agencies-people-news/new-direction-for-newton-fallowell-peterborough/?utm_source=rss&utm_medium=rss&utm_campaign=new-direction-for-newton-fallowell-peterborough",
+      "source": "The Negotiator"
+    }
+  ],
+  "problems": [],
+  "words": 705
+}
