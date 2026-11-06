@@ -1,0 +1,110 @@
+{
+  "date": "2026-11-06",
+  "subject": "[Prop Digest] Rates hit 4%, and Vistry halves its footprint",
+  "model": "anthropic/claude-haiku-5.5",
+  "gathered": 29,
+  "test": false,
+  "opener": "Rates have gone up for the first time in three years, Vistry is cutting its footprint in half, and Foxtons says the Renters' Rights Act is hurting its lettings. Coffee up, let's go.",
+  "stories": [
+    {
+      "section": "The big one",
+      "text": "The Bank of England has hiked interest rates to 4% to keep rising inflation under control, according to The Negotiator. That's a blow for anyone with a tracker or a remortgage coming up, and it lands on a market that was already wobbling. Today's Negotiator piece also says Andrew Bailey warns inflation is expected to rise to 5% next year, and a rate setter has called for a further 0.5% hike, so the direction of travel isn't over. **Why it matters:** higher rates cool buyer demand and squeeze affordability, so expect more of the cold feet and price cuts we've been seeing. Note the two articles don't line up neatly on the detail, so check the Bank's own announcement before you quote the numbers.",
+      "url": "https://thenegotiator.co.uk/news/uk-housing-market-news/interest-rates-rise-for-first-time-in-three-years/?utm_source=rss&utm_medium=rss&utm_campaign=interest-rates-rise-for-first-time-in-three-years",
+      "source": "The Negotiator",
+      "headline": "Bank of England lifts rates to 4%, first rise in three years"
+    },
+    {
+      "section": "Rules and politics",
+      "text": "Andrew Bailey is quoted warning that inflation is expected to rise to 5% next year. **Why it matters:** if that plays out, the rate story isn't over, and anyone thinking rates have peaked should think again.",
+      "url": "https://thenegotiator.co.uk/news/uk-housing-market-news/bank-of-england-rate-setter-calls-for-0-5-hike/?utm_source=rss&utm_medium=rss&utm_campaign=bank-of-england-rate-setter-calls-for-0-5-hike",
+      "source": "The Negotiator",
+      "headline": "Bank of England rate setter calls for 0.5% hike"
+    },
+    {
+      "section": "Rules and politics",
+      "text": "A tribunal has ordered the developer to pay £46.5m to remediate fire safety defects in seven Manchester buildings it developed. The article says this ends a near three-year dispute that was brought on by government. **Why it matters:** it's a clear signal that developers, not just leaseholders, can end up on the hook for remediation.",
+      "url": "https://www.propertyweek.com/news/court-orders-urban-splash-to-pay-46-5m-fire-safety-bill",
+      "source": "Property Week",
+      "headline": "Court orders Urban Splash to pay £46.5m fire safety bill"
+    },
+    {
+      "section": "The numbers",
+      "text": "Emily Williams of Savills predicts a 1.5% fall in property prices next year as the housing market keeps struggling. That's a shift from Savills' earlier view that prices won't recover until 2028, and it's a grim one for anyone betting on a bounce.",
+      "url": "https://thenegotiator.co.uk/news/savills-issues-gloomy-house-price-forecast-for-next-year/?utm_source=rss&utm_medium=rss&utm_campaign=savills-issues-gloomy-house-price-forecast-for-next-year",
+      "source": "The Negotiator",
+      "headline": "Savills sees house prices falling 1.5% in 2027"
+    },
+    {
+      "section": "The numbers",
+      "text": "Zoopla's Richard Donnell has revealed where homes cost less than two years of household earnings. The study shows a stark divide between northern and southern markets, according to Property Industry EYE. Worth a look if you're pitching affordability stories this week.",
+      "url": "https://propertyindustryeye.com/britains-most-affordable-towns-revealed/",
+      "source": "Property Industry EYE",
+      "headline": "Where a home costs under two years' earnings"
+    },
+    {
+      "section": "Portals and big agencies",
+      "text": "In the three months to September, Foxtons' lettings fell 7% year on year and overall revenue dropped 6%. Its Q3 update also flagged a rise in tenant terminations since the rental reforms came in. Property Industry EYE puts the Act's cost to Foxtons at £5.7m, with sales revenue down 10%. **Why it matters:** this is one of the first hard numbers showing what the new rules cost a big agency, and it won't be the last.",
+      "url": "https://www.propertyweek.com/news/foxtons-blames-renters-rights-act-for-lettings-and-revenue-dip",
+      "source": "Property Week",
+      "headline": "Foxtons blames the Renters' Rights Act for a lettings slump"
+    },
+    {
+      "section": "Who said what",
+      "text": "Adam Daniels of Vistry called the decision to shut 12 out of 25 offices \"difficult but necessary\". Vistry is also cutting staff as it halves its operating regions to 12, after a £661.3m pre-tax first-half loss in September. **Our take:** \"difficult but necessary\" is what you say when the spreadsheet made the call for you.",
+      "url": "https://thenegotiator.co.uk/news/land-new-homes/major-housebuilder-forced-to-close-half-of-its-offices/?utm_source=rss&utm_medium=rss&utm_campaign=major-housebuilder-forced-to-close-half-of-its-offices",
+      "source": "The Negotiator",
+      "headline": "Vistry's Adam Daniels on closing 12 of 25 offices"
+    },
+    {
+      "section": "Elsewhere",
+      "text": "Vistry has begun cutting staff as part of a plan to halve its operating regions to 12. The group posted a £661.3m pre-tax first-half loss in September.",
+      "url": "https://www.propertyweek.com/news/vistry-begins-axing-staff-as-part-of-drastic-restructuring-plans",
+      "source": "Property Week",
+      "headline": "Vistry starts axing staff in restructuring"
+    },
+    {
+      "section": "Elsewhere",
+      "text": "Derwent London has completed £290m of disposals toward a £400m capital recycling target. New chief executive Jonathan Murphy says strong leasing has cut EPRA vacancy and that 2026 is on track to be one of the group's best years on record.",
+      "url": "https://www.propertyweek.com/news/derwent-london-completes-290m-disposals-as-it-targets-400m-capital-recycling",
+      "source": "Property Week",
+      "headline": "Derwent London sells £290m as it chases £400m"
+    },
+    {
+      "section": "Elsewhere",
+      "text": "JLL and Cast have been appointed to advise on Barking Riverside, the 443-acre scheme that will deliver 20,000 homes. It's owned by L&Q and the mayor of London.",
+      "url": "https://www.propertyweek.com/news/jll-and-cast-appointed-to-advise-on-east-londons-largest-regeneration-scheme",
+      "source": "Property Week",
+      "headline": "Urban Splash fire bill, and a Barking Riverside adviser pick"
+    },
+    {
+      "section": "Quick hits",
+      "headline": "Conveyancing fees fall again as competition squeezes firm margins, with subdued activity adding pressure.",
+      "text": "Conveyancing fees fall again as competition squeezes firm margins, with subdued activity adding pressure.",
+      "url": "https://propertyindustryeye.com/conveyancing-fees-fall-again-as-competition-squeezes-firms-margins/",
+      "source": "Property Industry EYE"
+    },
+    {
+      "section": "Quick hits",
+      "headline": "Estate agents are mostly using AI for admin and information-processing, according to new research.",
+      "text": "Estate agents are mostly using AI for admin and information-processing, according to new research.",
+      "url": "https://propertyindustryeye.com/estate-agents-slow-to-embrace-ai/",
+      "source": "Property Industry EYE"
+    },
+    {
+      "section": "Quick hits",
+      "headline": "Unite is reshuffling its executive committee as it moves to a smaller, more focused business, with its COO and communications director leaving.",
+      "text": "Unite is reshuffling its executive committee as it moves to a smaller, more focused business, with its COO and communications director leaving.",
+      "url": "https://www.propertyweek.com/news/unite-unveils-changes-to-executive-committee-amid-disposals-plans",
+      "source": "Property Week"
+    },
+    {
+      "section": "Quick hits",
+      "headline": "Fine & Country Foundation has awarded £47,410 to 27 charities tackling homelessness and poverty.",
+      "text": "Fine & Country Foundation has awarded £47,410 to 27 charities tackling homelessness and poverty.",
+      "url": "https://propertyindustryeye.com/fine-country-foundation-awards-47000-to-charities/",
+      "source": "Property Industry EYE"
+    }
+  ],
+  "problems": [],
+  "words": 798
+}
