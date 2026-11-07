@@ -338,7 +338,9 @@ def run(dry_run, test):
         (ROOT / "preview.html").write_text(body)
         print("wrote preview.html")
         return
-    feedback.send_email(subject, render_text(content), body, feedback.reply_address())
+    extras = feedback.extra_recipients(config)
+    sent_extra = feedback.send_digest(subject, render_text(content), body, feedback.reply_address(), extras)
+    print(f"copies: 1 + {sent_extra} extra")
     write_archive(now, {"subject": subject, "model": model, "gathered": len(items), "test": test,
                         "opener": content["opener"], "stories": sent, "problems": problems,
                         "words": word_count(content)}, body)

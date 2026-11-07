@@ -1,3 +1,7 @@
 # Change settings here, not in .github/workflows/digest.yml: commits to the workflow file can stop
 # GitHub's scheduled runs. A DIGEST_MODEL env var, if set, overrides this.
 digest_model: anthropic/claude-haiku-5.5
+# Extra digest recipients can live here once the repo is private:
+# extra_recipients:
+#   - name@example.com
+# While the repo is public, use the EXTRA_RECIPIENTS Actions secret instead.

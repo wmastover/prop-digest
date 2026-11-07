@@ -26,9 +26,26 @@ def reply_address():
     return f"{user}+digest@{domain}"
 
 
-def send_email(subject, text, html=None, reply_to=None):
+def extra_recipients(config=None):
+    """Addresses that get their own copy of the daily digest. DIGEST_TO is never included."""
+    found = []
+    found.extend(os.environ.get("EXTRA_RECIPIENTS", "").replace(";", ",").split(","))
+    found.extend((config or {}).get("extra_recipients") or [])
+    me = os.environ.get("DIGEST_TO", "").strip().lower()
+    out, seen = [], set()
+    for raw in found:
+        addr = str(raw).strip()
+        key = addr.lower()
+        if not addr or "@" not in addr or key == me or key in seen:
+            continue
+        seen.add(key)
+        out.append(addr)
+    return out
+
+
+def send_email(subject, text, html=None, reply_to=None, to=None):
     msg = EmailMessage()
-    msg["Subject"], msg["From"], msg["To"] = subject, os.environ["GMAIL_ADDRESS"], os.environ["DIGEST_TO"]
+    msg["Subject"], msg["From"], msg["To"] = subject, os.environ["GMAIL_ADDRESS"], to or os.environ["DIGEST_TO"]
     if reply_to:
         msg["Reply-To"] = reply_to
     msg.set_content(text)
@@ -37,6 +54,20 @@ def send_email(subject, text, html=None, reply_to=None):
     with smtplib.SMTP_SSL("smtp.gmail.com", 465) as s:
         s.login(os.environ["GMAIL_ADDRESS"], os.environ["GMAIL_APP_PASSWORD"])
         s.send_message(msg)
+
+
+def send_digest(subject, text, html, reply_to, extras=()):
+    """One copy per recipient, so nobody sees the others. Extras failing does not fail the run."""
+    send_email(subject, text, html, reply_to)
+    sent = 0
+    for addr in extras:
+        try:
+            send_email(subject, text, html, reply_to, to=addr)
+        except Exception as exc:
+            print(f"WARNING: an extra copy failed to send ({type(exc).__name__})")
+        else:
+            sent += 1
+    return sent
 
 
 def reply_text(msg):

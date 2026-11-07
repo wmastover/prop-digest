@@ -12,6 +12,7 @@ Add these under **Settings → Secrets and variables → Actions** (or `gh secre
 | `GMAIL_ADDRESS` | Gmail account the digest is sent from |
 | `GMAIL_APP_PASSWORD` | Gmail app password for that account |
 | `DIGEST_TO` | Where the digest goes. Replies go to this address with `+digest` added, so it should be the same mailbox as `GMAIL_ADDRESS` for the feedback loop to see them |
+| `EXTRA_RECIPIENTS` | Optional. Comma-separated addresses that each get their own copy of the daily digest. They are not on each other's emails. Quiet-day, failure, and preference emails still go only to `DIGEST_TO`, and only replies from `DIGEST_TO` update preferences. While the repo is public, keep addresses here rather than in `config.yaml` |
 
 The digest model is set in `config.yaml` (currently Haiku). Change settings there rather than in the workflow file. `DIGEST_MODEL` and `FEEDBACK_MODEL` (default `anthropic/claude-haiku-5.5`) env vars still override.
 
