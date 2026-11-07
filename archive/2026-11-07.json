@@ -1,0 +1,68 @@
+{
+  "date": "2026-11-07",
+  "subject": "[Prop Digest] Rightmove trims its forecast. Buyers are wobbling.",
+  "model": "anthropic/claude-haiku-5.5",
+  "gathered": 10,
+  "test": false,
+  "opener": "Rightmove has nudged its revenue forecast down, house prices fell at the fastest pace in over three years, and MJ Gleeson is braced for a slow spring. Coffee up, let's go.",
+  "stories": [
+    {
+      "section": "The big one",
+      "text": "Rightmove now expects 2026 revenue growth of 6% to 7%, down from the 6% to 8% it guided to before. Property Industry EYE ties the cut to weaker buyer demand and falling sales, while The Negotiator points to extra AI spending. It also expects to hand more than £400m back to shareholders between July 2026 and July 2027. **Why it matters:** a portal growing more slowly while agents are feeling the squeeze is exactly the moment to watch, especially with the £1.5bn agent claim still in play. A cheeky reminder that the portal's numbers are the market's numbers too.",
+      "url": "https://propertyindustryeye.com/eye-newsflash-rightmove-cuts-revenue-forecast-as-buyer-demand-and-sales-fall/",
+      "source": "Property Industry EYE",
+      "headline": "Rightmove trims its revenue forecast as buyer demand and sales slip"
+    },
+    {
+      "section": "The numbers",
+      "text": "Lloyds says average prices dropped 0.6% in October to £296,285, the fourth monthly fall in a row. It's the steepest drop since August 2023, when it fell 1.6%. **So what:** high mortgage rates are doing what high mortgage rates do, and nobody on the sales side will enjoy hearing that.",
+      "url": "https://www.theguardian.com/business/2026/nov/06/uk-house-prices-fall-at-steepest-rate-in-more-than-three-years",
+      "source": "Guardian Property",
+      "headline": "UK house prices fall at steepest rate in more than three years"
+    },
+    {
+      "section": "Elsewhere",
+      "text": "The affordable housebuilder says its open-market net reservation rate rose slightly year on year in the eight weeks to 1 November. It still expects sales to be slow over the next half year. Fewer new homes sold means fewer homes for agents to sell, so that's one to file away.",
+      "url": "https://www.propertyweek.com/news/mj-gleesons-sales-improve-but-expects-weaker-first-half-of-2027",
+      "source": "Property Week",
+      "headline": "MJ Gleeson sees a weaker first half of 2027"
+    },
+    {
+      "section": "Elsewhere",
+      "text": "The Greater Manchester Combined Authority has agreed a deal with the National Housing Bank that could unlock up to £500m. It follows last year's Good Growth Fund launch. Big public money, but the article doesn't say what gets built or when.",
+      "url": "https://www.propertyweek.com/news/manchester-signs-agreement-with-nhb-to-unlock-up-to-500m",
+      "source": "Property Week",
+      "headline": "Manchester signs up to unlock up to £500m with National Housing Bank"
+    },
+    {
+      "section": "Quick hits",
+      "headline": "Savills is marketing a fully let St James's Street office for £61m on behalf of an unnamed overseas investor. Commercial, but big-ticket.",
+      "text": "Savills is marketing a fully let St James's Street office for £61m on behalf of an unnamed overseas investor. Commercial, but big-ticket.",
+      "url": "https://www.propertyweek.com/news/savills-markets-super-prime-st-jamess-street-office-for-61m",
+      "source": "Property Week"
+    },
+    {
+      "section": "Quick hits",
+      "headline": "Cluttons has hired Nigel Matthews to head up its structural engineering team. Chartered engineers are not a headline, but the hire is a headline for Cluttons.",
+      "text": "Cluttons has hired Nigel Matthews to head up its structural engineering team. Chartered engineers are not a headline, but the hire is a headline for Cluttons.",
+      "url": "https://www.propertyweek.com/news/cluttons-has-appoints-matthews-as-partner-to-strengthen-energy-capabilities",
+      "source": "Property Week"
+    },
+    {
+      "section": "Quick hits",
+      "headline": "Cushman & Wakefield has hired Lynn from Knight Frank to lead UK hotel capital markets. Musical chairs, but the hotel trade is always moving.",
+      "text": "Cushman & Wakefield has hired Lynn from Knight Frank to lead UK hotel capital markets. Musical chairs, but the hotel trade is always moving.",
+      "url": "https://www.propertyweek.com/news/lynn-ste",
+      "source": "Property Week"
+    },
+    {
+      "section": "Quick hits",
+      "headline": "The BBC's rates piece is about what rising interest rates do to mortgages, cards and loans. Useful for the clients you'll be talking to on Monday.",
+      "text": "The BBC's rates piece is about what rising interest rates do to mortgages, cards and loans. Useful for the clients you'll be talking to on Monday.",
+      "url": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    }
+  ],
+  "problems": [],
+  "words": 527
+}
