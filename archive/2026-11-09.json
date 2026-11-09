@@ -1,0 +1,89 @@
+{
+  "date": "2026-11-09",
+  "subject": "[Prop Digest] First-time buyer scheme: 'not supercharge', says Bellway",
+  "model": "anthropic/claude-haiku-5.5",
+  "gathered": 11,
+  "test": false,
+  "opener": "Monday, and the Chancellor's new first-time buyer scheme is already getting a cold reception from the people who'd have to build the homes. Coffee up, let's go.",
+  "stories": [
+    {
+      "section": "The big one",
+      "text": "The Chancellor has announced Your First Home, a scheme for first-time buyers. Bellway's Jason Honeyman told The Times it will \"not supercharge\" housebuilding, and The Negotiator's headline calls the boost \"modest\". **Why it matters:** if the builders themselves think it's a nudge rather than a shove, don't expect a sudden wave of new homes. Watch the detail, because the scheme only helps if it actually gets more sites moving.",
+      "url": "https://thenegotiator.co.uk/news/land-new-homes/first-time-buyers-scheme-only-modest-boost-warns-building-boss/?utm_source=rss&utm_medium=rss&utm_campaign=first-time-buyers-scheme-only-modest-boost-warns-building-boss",
+      "source": "The Negotiator",
+      "headline": "Your First Home won't supercharge building, says Bellway"
+    },
+    {
+      "section": "The numbers",
+      "text": "A study by Let Compliance says mortgage interest takes £49.10 of every £100 of rent, income tax takes £9.94 and compulsory fees take £1.21. **Why it matters:** that's the sum landlords are weighing up when they decide whether to stay in the game, and it's a grim sum.",
+      "url": "https://thenegotiator.co.uk/news/still-worth-it-landlords-keep-only-39-75-of-every-100-rent/?utm_source=rss&utm_medium=rss&utm_campaign=still-worth-it-landlords-keep-only-39-75-of-every-100-rent",
+      "source": "The Negotiator",
+      "headline": "Landlords keep £39.75 of every £100 in rent"
+    },
+    {
+      "section": "Portals and big agencies",
+      "text": "Analysts warn that Rightmove's grip on estate agents is coming under growing scrutiny as the market weakens. **Why it matters:** portals can charge what they like while agents have no choice, but a weak market gives agents a reason to start asking awkward questions.",
+      "url": "https://propertyindustryeye.com/rightmoves-dominance-faces-growing-test-as-housing-market-weakens-analysts-warn/",
+      "source": "Property Industry EYE",
+      "headline": "Rightmove's dominance faces a tougher test"
+    },
+    {
+      "section": "Portals and big agencies",
+      "text": "A long-established estate agency has completed the acquisition of a rival's lettings portfolio. The summary doesn't say much more than that. **Why it matters:** with lettings under pressure, buying someone else's landlords is a quicker route to growth than building your own from scratch.",
+      "url": "https://propertyindustryeye.com/independent-agency-completes-acquisition-of-rivals-lettings-portfolio/",
+      "source": "Property Industry EYE",
+      "headline": "Independent agency buys a rival's lettings portfolio"
+    },
+    {
+      "section": "Who said what",
+      "text": "Andrew Asaam of Lloyds says the \"challenging economic backdrop\" is having a big impact on the property market, against a backdrop of the steepest house price drop in three years. **Why it matters:** when a lender says the economy is the problem, that's a warning, not a shrug.",
+      "url": "https://thenegotiator.co.uk/news/uk-housing-market-news/house-prices-hit-by-steepest-drop-in-three-years/?utm_source=rss&utm_medium=rss&utm_campaign=house-prices-hit-by-steepest-drop-in-three-years",
+      "source": "The Negotiator",
+      "headline": "Lloyds says the economy is hitting house prices hard"
+    },
+    {
+      "section": "Who said what",
+      "text": "LRG's Neil Louth says upfront information gives buyers greater confidence in the offer they're making. **Why it matters:** if buyers feel surer of their offers, they're less likely to pull out later, which is the bit agents actually care about.",
+      "url": "https://thenegotiator.co.uk/news/products-services-news/upfront-information-may-speed-up-buyer-offers-claim/?utm_source=rss&utm_medium=rss&utm_campaign=upfront-information-may-speed-up-buyer-offers-claim",
+      "source": "The Negotiator",
+      "headline": "LRG says upfront information helps buyers commit"
+    },
+    {
+      "section": "Who said what",
+      "text": "Virelle's Emily Robison says landlords who kept their portfolios are seeing stronger tenant demand and potentially better yields. **Why it matters:** the sellers have left the building, so the ones who stayed are getting the rewards. Take that with a pinch of salt, since it's the view of someone who sells the service.",
+      "url": "https://thenegotiator.co.uk/news/rental-market/landlords-who-decide-not-to-sell-benefit-from-stronger-demand-and-higher-yields/?utm_source=rss&utm_medium=rss&utm_campaign=landlords-who-decide-not-to-sell-benefit-from-stronger-demand-and-higher-yields",
+      "source": "The Negotiator",
+      "headline": "Virelle says landlords who held on are doing well"
+    },
+    {
+      "section": "Elsewhere",
+      "text": "The housing investment and management company HSPG is demerging, with its activities continuing through two independent businesses. Sevet will be led by Guy Horne and Highdale by David Searle. **Why it matters:** a founder-led split usually means each half has to prove it can stand alone.",
+      "url": "https://www.propertyweek.com/news/hspg-to-demerge-as-founders-establish-new-independent-businesses",
+      "source": "Property Week",
+      "headline": "HSPG splits in two as founders go their own way"
+    },
+    {
+      "section": "Quick hits",
+      "headline": "Savills says prime London is facing the heaviest price pressure, with more falls forecast for 2027.",
+      "text": "Savills says prime London is facing the heaviest price pressure, with more falls forecast for 2027.",
+      "url": "https://propertyindustryeye.com/estate-agents-face-another-year-of-falling-prime-house-prices-savills-warns/",
+      "source": "Property Industry EYE"
+    },
+    {
+      "section": "Quick hits",
+      "headline": "Stow Brothers has opened its sixth office, in Islington, with an art exhibition and launch on Upper Street.",
+      "text": "Stow Brothers has opened its sixth office, in Islington, with an art exhibition and launch on Upper Street.",
+      "url": "https://thenegotiator.co.uk/news/agencies-people-news/the-stow-brothers-opens-sixth-office-in-islington/?utm_source=rss&utm_medium=rss&utm_campaign=the-stow-brothers-opens-sixth-office-in-islington",
+      "source": "The Negotiator"
+    },
+    {
+      "section": "Quick hits",
+      "headline": "An estate agency group sponsored an FA Cup tie that went to five goals, with the non-league underdogs coming agonisingly close to an upset.",
+      "text": "An estate agency group sponsored an FA Cup tie that went to five goals, with the non-league underdogs coming agonisingly close to an upset.",
+      "url": "https://propertyindustryeye.com/estate-agency-group-backs-fa-cup-underdogs-in-five-goal-thriller/",
+      "source": "Property Industry EYE"
+    }
+  ],
+  "problems": [],
+  "words": 624
+}
