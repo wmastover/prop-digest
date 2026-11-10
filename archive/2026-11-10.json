@@ -1,0 +1,54 @@
+{
+  "date": "2026-11-10",
+  "subject": "[Prop Digest] Boiler ban blinks, first-time buyers get the cold shoulder",
+  "model": "anthropic/claude-haiku-5.5",
+  "gathered": 6,
+  "test": false,
+  "opener": "Tuesday, and it's a quiet one: no portal drama, no big data drop. Ministers have bent on gas boilers, and the builders aren't sold on the new first-time buyer scheme. Coffee up, let's go.",
+  "stories": [
+    {
+      "section": "The big one",
+      "text": "Ministers have stepped back from a blanket ban on gas boilers and will now allow some exemptions. The summary doesn't say who qualifies or how the exemptions will work, so anything beyond that headline is guesswork until you've read the full piece. **Why it matters:** if you have landlord or homeowner clients with older gas systems, the cost and timing of switching just got softer, and the exemptions are where the real answer will sit. **My take:** this is the kind of change that sounds good on the day and gets complicated in the small print. Read the full piece before you promise anyone anything.",
+      "url": "https://thenegotiator.co.uk/news/regulation-law-news/government-u-turns-on-gas-boiler-ban/?utm_source=rss&utm_medium=rss&utm_campaign=government-u-turns-on-gas-boiler-ban",
+      "source": "The Negotiator",
+      "headline": "Government U-turns on gas boiler ban"
+    },
+    {
+      "section": "Rules and politics",
+      "text": "Gleeson Homes says the wait for Your First Home will hold up new-build sales. Buyers are sitting tight until the scheme is up and running, rather than committing to a new-build purchase now. **Why it matters:** if Gleeson is right, the scheme becomes a talking point before it becomes a help, and new-build sales could slow while everyone waits to see the rules. The summary is short, so read the full piece to see how far Gleeson expects the slowdown to go.",
+      "url": "https://thenegotiator.co.uk/news/land-new-homes/housebuilders-warn-first-time-buyer-scheme-will-stall-market/?utm_source=rss&utm_medium=rss&utm_campaign=housebuilders-warn-first-time-buyer-scheme-will-stall-market",
+      "source": "The Negotiator",
+      "headline": "Gleeson warns that first-time buyer scheme will stall sales"
+    },
+    {
+      "section": "The numbers",
+      "text": "Contributors to the Bridging Trends index lent almost £182 million in the three months to September, and the rise is put down to landlords buying investment property. Bridging is short-term finance, usually used to cover a gap until longer-term funding arrives, so this is people moving fast rather than waiting for a standard mortgage. **My take:** it's a sign some investors are still buying, even if the summary doesn't say how sharp the rise is.",
+      "url": "https://thenegotiator.co.uk/news/products-services-news/bridging-lending-rises-as-landlords-buy-investment-property/?utm_source=rss&utm_medium=rss&utm_campaign=bridging-lending-rises-as-landlords-buy-investment-property",
+      "source": "The Negotiator",
+      "headline": "Bridging lending rises as landlords buy investment property"
+    },
+    {
+      "section": "Elsewhere",
+      "text": "The Connells parent company, Skipton, is now part of the National Property Transaction Network, which links agents, lenders and conveyancers. The aim is a digital homebuying process from end to end. The summary doesn't spell out how the network works in practice, so treat it as a headline until you've seen the mechanics. **Why it matters:** a big lender plugging in is what makes a network like this real, so watch whether other lenders and the big agencies follow.",
+      "url": "https://thenegotiator.co.uk/news/products-services-news/skipton-joins-digital-homebuying-service/?utm_source=rss&utm_medium=rss&utm_campaign=skipton-joins-digital-homebuying-service",
+      "source": "The Negotiator",
+      "headline": "Skipton joins digital homebuying service"
+    },
+    {
+      "section": "Quick hits",
+      "headline": "Brokers say too much time is wasted chasing conveyancers for updates on property transactions, according to research. If that's your world, you'll know the feeling.",
+      "text": "Brokers say too much time is wasted chasing conveyancers for updates on property transactions, according to research. If that's your world, you'll know the feeling.",
+      "url": "https://thenegotiator.co.uk/news/products-services-news/brokers-express-frustration-with-conveyancing-process/?utm_source=rss&utm_medium=rss&utm_campaign=brokers-express-frustration-with-conveyancing-process",
+      "source": "The Negotiator"
+    },
+    {
+      "section": "Quick hits",
+      "headline": "Growing compliance is pushing more landlords towards letting agents, but plenty still self-manage, according to research by August. Compliance is the angle to lean on with clients who are still going it alone.",
+      "text": "Growing compliance is pushing more landlords towards letting agents, but plenty still self-manage, according to research by August. Compliance is the angle to lean on with clients who are still going it alone.",
+      "url": "https://thenegotiator.co.uk/news/rental-market/landlords-reveal-main-reasons-for-using-letting-agents/?utm_source=rss&utm_medium=rss&utm_campaign=landlords-reveal-main-reasons-for-using-letting-agents",
+      "source": "The Negotiator"
+    }
+  ],
+  "problems": [],
+  "words": 542
+}
