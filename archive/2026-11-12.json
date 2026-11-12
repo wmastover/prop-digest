@@ -1,0 +1,117 @@
+{
+  "date": "2026-11-12",
+  "subject": "[Prop Digest] Buyers going cold, and the forecasters noticed",
+  "model": "anthropic/claude-haiku-5.5",
+  "gathered": 29,
+  "test": false,
+  "opener": "Thursday, and the mood is grim. The surveyors have downgraded sales and the prime London numbers are ugly. Coffee up, let's go.",
+  "stories": [
+    {
+      "section": "The big one",
+      "text": "RICS says its sales outlook has dropped to a three-year low, with high mortgage rates expected to keep weighing on homebuyer demand over the longer term, according to its Tarrant Parsons. **Why it matters:** this is the forward-looking number, not last month's sales, so it tells you where the pipeline is heading. Agents banking on a spring bounce should be nervous. Expect the 'buyers are fine' lines to get quieter.",
+      "url": "https://thenegotiator.co.uk/news/uk-housing-market-news/home-sales-outlook-hits-three-year-low-as-rates-rise-rics/?utm_source=rss&utm_medium=rss&utm_campaign=home-sales-outlook-hits-three-year-low-as-rates-rise-rics",
+      "source": "The Negotiator",
+      "headline": "RICS sales outlook hits a three-year low"
+    },
+    {
+      "section": "Rules and politics",
+      "text": "Calls are going up for the government's new Mansion Tax to be dropped before it even kicks in. **Why it matters:** if you sell or advise on high-value homes, this is one to track, because anything that changes the cost of owning top-end property changes the buyer pool.",
+      "url": "https://thenegotiator.co.uk/news/regulation-law-news/scrap-mansion-tax-before-it-starts-says-wealth-boss/?utm_source=rss&utm_medium=rss&utm_campaign=scrap-mansion-tax-before-it-starts-says-wealth-boss",
+      "source": "The Negotiator",
+      "headline": "Scrap the Mansion Tax before it starts, says wealth boss"
+    },
+    {
+      "section": "Rules and politics",
+      "text": "Housing Secretary Rayner is hosting a new housing board with developers and local leaders, meeting for the first time next week. It's designed to let councils and builders thrash out how building regulations, standards and the planning system are holding back development. **Why it matters:** talk is cheap, but this is where the planning bottlenecks either get named or get quietly shelved.",
+      "url": "https://www.propertyweek.com/news/rayner-to-host-housing-board-with-developers-and-local-leaders",
+      "source": "Property Week",
+      "headline": "Rayner's housing board gets its first meeting next week"
+    },
+    {
+      "section": "The numbers",
+      "text": "Prime London sales fell sharply in October while price reductions increased. **Why it matters:** this is the top end finally feeling the squeeze, and it's the sort of market where a few cuts become a trend fast.",
+      "url": "https://propertyindustryeye.com/prime-london-sales-slump-as-price-cuts-mount-and-rents-rise-5/",
+      "source": "Property Industry EYE",
+      "headline": "Prime London sales slump as price cuts mount"
+    },
+    {
+      "section": "The numbers",
+      "text": "New figures show a sharp slowdown in company incorporations linked to property investment, down 25%. **Why it matters:** fewer new property companies usually means fewer new investors setting up to buy, which is an early hint that the landlord pipeline is drying up.",
+      "url": "https://propertyindustryeye.com/buy-to-let-warning-sign-as-new-property-company-formations-plunge-25/",
+      "source": "Property Industry EYE",
+      "headline": "Buy-to-let warning sign as new property company formations plunge 25%"
+    },
+    {
+      "section": "Portals and big agencies",
+      "text": "Savills is opening a new lettings department in Bath, moving into that market with a dedicated team. **Why it matters:** the big sales brands are chasing rental income as sales cool, and that's a fight the independents in Bath will feel.",
+      "url": "https://propertyindustryeye.com/savills-strengthens-bath-operation-with-new-lettings-department/",
+      "source": "Property Industry EYE",
+      "headline": "Savills gets into Bath lettings"
+    },
+    {
+      "section": "Portals and big agencies",
+      "text": "An estate agency group has unveiled a rebrand after two years of growth. The article doesn't go into much more detail than that. **Why it matters:** a rebrand after rapid growth usually means the group wants to be seen as one brand, not a collection of acquisitions.",
+      "url": "https://propertyindustryeye.com/estate-agency-giant-unveils-rebrand-following-rapid-expansion/",
+      "source": "Property Industry EYE",
+      "headline": "Estate agency giant unveils rebrand after rapid expansion"
+    },
+    {
+      "section": "Who said what",
+      "text": "Chief executive Jennie Daly said: \"The autumn selling season has been more subdued, as higher mortgage rates and living costs continue to reduce customer affordability.\" Taylor Wimpey expects profit at the lower end of expectations. **Why it matters:** a housebuilder saying affordability is the problem is about as honest as the sector gets.",
+      "url": "https://www.propertyweek.com/news/taylor-wimpey-sales-rates-dip-with-profits-expected-to-come-in-at-lower-end-of-expectations",
+      "source": "Property Week",
+      "headline": "Taylor Wimpey: the autumn selling season has been subdued"
+    },
+    {
+      "section": "Who said what",
+      "text": "Adam Day of eXp says agents' income has suffered over the last 10 years, as average earnings have risen less than inflation. **Why it matters:** if you wonder why good people leave the trade, that's the answer in one sentence.",
+      "url": "https://thenegotiator.co.uk/news/agencies-people-news/estate-agents-see-earnings-fall-behind-inflation-rate/?utm_source=rss&utm_medium=rss&utm_campaign=estate-agents-see-earnings-fall-behind-inflation-rate",
+      "source": "The Negotiator",
+      "headline": "Agents' pay is losing to inflation"
+    },
+    {
+      "section": "Challengers",
+      "text": "ClearScore is offering a free service that reports tenants' rent payments, aiming to give renters the same credit benefit as mortgage payments. **Why it matters:** if it catches on, renters get an easier route onto the ladder, and it's a fresh angle for agents selling the renter-to-buyer story.",
+      "url": "https://thenegotiator.co.uk/news/rental-market/financial-giant-offers-free-rent-payment-reporting-service-to-tenants/?utm_source=rss&utm_medium=rss&utm_campaign=financial-giant-offers-free-rent-payment-reporting-service-to-tenants",
+      "source": "The Negotiator",
+      "headline": "ClearScore wants rent to count for mortgages"
+    },
+    {
+      "section": "Elsewhere",
+      "text": "The Birmingham City Council and Berkeley scheme for more than 10,000 homes over 20 years has been scrapped over viability pressures. **Why it matters:** a big hit to affordable supply in a city that needs it.",
+      "url": "https://www.propertyweek.com/news/birminghams-2-2bn-ladywood-regeneration-plans-canned-over-viability-pressures",
+      "source": "Property Week",
+      "headline": "Birmingham's £2.2bn Ladywood regeneration axed"
+    },
+    {
+      "section": "Quick hits",
+      "headline": "LRG says its corporate landlord base is still confident about expanding, six months after the Renters' Rights Act.",
+      "text": "LRG says its corporate landlord base is still confident about expanding, six months after the Renters' Rights Act.",
+      "url": "https://thenegotiator.co.uk/news/rental-market/professional-landlords-plan-to-expand-despite-renters-rights-act-fears/?utm_source=rss&utm_medium=rss&utm_campaign=professional-landlords-plan-to-expand-despite-renters-rights-act-fears",
+      "source": "The Negotiator"
+    },
+    {
+      "section": "Quick hits",
+      "headline": "Stow Brothers has opened its sixth office, in Islington, with an art exhibition thrown in.",
+      "text": "Stow Brothers has opened its sixth office, in Islington, with an art exhibition thrown in.",
+      "url": "https://propertyindustryeye.com/ambitious-franchisees-secure-third-estate-agency-office-in-latest-acquisition/",
+      "source": "Property Industry EYE"
+    },
+    {
+      "section": "Quick hits",
+      "headline": "The Guild has launched an AI training series for agents covering practical uses, marketing and compliance risks.",
+      "text": "The Guild has launched an AI training series for agents covering practical uses, marketing and compliance risks.",
+      "url": "https://propertyindustryeye.com/the-guild-launches-ai-training-series-for-estate-agents/",
+      "source": "Property Industry EYE"
+    },
+    {
+      "section": "Quick hits",
+      "headline": "Seneca has acquired Lawnswood Business Park in Leeds and will refurbish it into smaller, fitted office suites.",
+      "text": "Seneca has acquired Lawnswood Business Park in Leeds and will refurbish it into smaller, fitted office suites.",
+      "url": "https://www.propertyweek.com/news/seneca-acquires-lawnswood-business-park",
+      "source": "Property Week"
+    }
+  ],
+  "problems": [],
+  "words": 790
+}
