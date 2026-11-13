@@ -1,0 +1,82 @@
+{
+  "date": "2026-11-13",
+  "subject": "[Prop Digest] Leasehold reforms land, and buyers get jittery",
+  "model": "anthropic/claude-haiku-5.5",
+  "gathered": 10,
+  "test": false,
+  "opener": "Friday the 13th. Rightmove reckons fewer people are moving today because of the superstition, which is the most sensible thing anyone's said about property this week. Coffee up, let's go.",
+  "stories": [
+    {
+      "section": "The big one",
+      "text": "Andy Burnham and housing minister Matthew Pennycook have set out the latest leasehold reforms for England. The headline is that leaseholders will get more rights to challenge service charges. The article doesn't give the detail, so treat this as the direction of travel until the specifics land. **Why it matters:** service charges are where leaseholders get squeezed, so anything that makes them easier to challenge hits freeholders and managing agents' income first. Watch the detail, not the announcement.",
+      "url": "https://thenegotiator.co.uk/news/regulation-law-news/leasehold-charges-latest-reforms-revealed-by-prime-minister/?utm_source=rss&utm_medium=rss&utm_campaign=leasehold-charges-latest-reforms-revealed-by-prime-minister",
+      "source": "The Negotiator",
+      "headline": "Leasehold reforms revealed: more rights to challenge service charges"
+    },
+    {
+      "section": "Rules and politics",
+      "text": "Evictions are up since the Renters' Rights Act came in. Brett Dixon of the Law Society says courts are already backlogged and delays will get worse without investment. **Why it matters:** landlords who rely on the courts to get possession back are going to wait longer, and that changes how they price risk.",
+      "url": "https://thenegotiator.co.uk/news/regulation-law-news/evictions-surge-after-renters-rights-act-introduced/?utm_source=rss&utm_medium=rss&utm_campaign=evictions-surge-after-renters-rights-act-introduced",
+      "source": "The Negotiator",
+      "headline": "Evictions surge after the Renters' Rights Act"
+    },
+    {
+      "section": "Rules and politics",
+      "text": "Harry Scoffin of Free Leaseholders is pushing for a universal right to manage, so leaseholders can take control of their own service charges. It's a campaigner's line, not a policy, but it lines up with where the reforms are heading.",
+      "url": "https://thenegotiator.co.uk/news/regulation-law-news/freeholders-are-branded-a-property-mafia-by-leasehold-campaigner/?utm_source=rss&utm_medium=rss&utm_campaign=freeholders-are-branded-a-property-mafia-by-leasehold-campaigner",
+      "source": "The Negotiator",
+      "headline": "Freeholders branded a 'property mafia' by leasehold campaigner"
+    },
+    {
+      "section": "Rules and politics",
+      "text": "OnTheMarket research says buyers are now more worried about how they'll afford a purchase. Nobody's surprised, but it's a useful number to have when a client asks why nothing's moving.",
+      "url": "https://thenegotiator.co.uk/news/uk-housing-market-news/autumn-budget-has-dented-buyer-confidence/?utm_source=rss&utm_medium=rss&utm_campaign=autumn-budget-has-dented-buyer-confidence",
+      "source": "The Negotiator",
+      "headline": "Autumn Budget has 'dented buyer confidence'"
+    },
+    {
+      "section": "The numbers",
+      "text": "UK Finance figures show repossessions of both private and buy-to-let homes fell. That's two consecutive falls, which is good news for lenders and borrowers alike.",
+      "url": "https://thenegotiator.co.uk/news/uk-housing-market-news/mortgage-repossessions-fall-20-in-second-consecutive-drop/?utm_source=rss&utm_medium=rss&utm_campaign=mortgage-repossessions-fall-20-in-second-consecutive-drop",
+      "source": "The Negotiator",
+      "headline": "Mortgage repossessions fall 20% for a second straight drop"
+    },
+    {
+      "section": "The numbers",
+      "text": "Zoopla data shows enquiries from first-time buyers have dropped 27%, with fewer sales agreed in the past week as borrowing costs bite. **Why it matters:** first-timers are the ones who keep the chain moving, so a drop at the bottom hits everyone above them.",
+      "url": "https://thenegotiator.co.uk/news/uk-housing-market-news/first-time-buyer-enquiries-have-dropped-since-interest-rate-hike/?utm_source=rss&utm_medium=rss&utm_campaign=first-time-buyer-enquiries-have-dropped-since-interest-rate-hike",
+      "source": "The Negotiator",
+      "headline": "First-time buyer enquiries down 27% since the rate hike"
+    },
+    {
+      "section": "Who said what",
+      "text": "Gareth Samples, chief executive of The Property Franchise Group, says the new corporate identity better reflects growth, bringing its brands under one more consistent look. A rebrand is a rebrand, but a consistent group identity is what you'd expect from a business that's buying up brands.",
+      "url": "https://thenegotiator.co.uk/news/the-property-franchise-group-refreshes-corporate-brand-identity/?utm_source=rss&utm_medium=rss&utm_campaign=the-property-franchise-group-refreshes-corporate-brand-identity",
+      "source": "The Negotiator",
+      "headline": "Franchise group says its new look reflects growth"
+    },
+    {
+      "section": "Quick hits",
+      "headline": "Rightmove says the Friday 13th effect may mean fewer people moving house today. Superstition: beaten by a calendar.",
+      "text": "Rightmove says the Friday 13th effect may mean fewer people moving house today. Superstition: beaten by a calendar.",
+      "url": "https://thenegotiator.co.uk/news/uk-housing-market-news/the-property-superstitions-behind-friday-13th/?utm_source=rss&utm_medium=rss&utm_campaign=the-property-superstitions-behind-friday-13th",
+      "source": "The Negotiator"
+    },
+    {
+      "section": "Quick hits",
+      "headline": "BBC experts warn that using AI to enhance property photos can go too far and mislead buyers. The 'housefishing' trend needs a rulebook.",
+      "text": "BBC experts warn that using AI to enhance property photos can go too far and mislead buyers. The 'housefishing' trend needs a rulebook.",
+      "url": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "section": "Quick hits",
+      "headline": "BBC video asks New York renters what they pay, and one says their window faces a brick wall. Unrelated to Britain, but the vibe is familiar.",
+      "text": "BBC video asks New York renters what they pay, and one says their window faces a brick wall. Unrelated to Britain, but the vibe is familiar.",
+      "url": "https://www.bbc.co.uk/news/videos/c6wy9j9v7nl7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    }
+  ],
+  "problems": [],
+  "words": 544
+}
