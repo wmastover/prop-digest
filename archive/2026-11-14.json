@@ -1,0 +1,42 @@
+{
+  "date": "2026-11-14",
+  "subject": "[Prop Digest] Subsidence claims surge after the scorcher",
+  "model": "anthropic/claude-haiku-5.5",
+  "gathered": 3,
+  "test": false,
+  "opener": "Saturday, and the news is mostly about cracks. Some in walls, some in IT. It's a quiet one, so there's time for a proper coffee and a proper read. Coffee up, let's go.",
+  "stories": [
+    {
+      "section": "The big one",
+      "text": "Aviva, the UK's biggest insurer, says it has been hit by a jump in subsidence claims as part of an industry-wide surge. Hastings Direct reported claims up 140% in August, and Axa described it as a 'surge year'. Subsidence claims cover repairs for cracks, sloping floors and off-kilter doors and windows, which is exactly what a hot, dry summer can cause. **Why it matters:** subsidence is the sort of thing that turns a nice sale into a re-trade, so expect buyers and surveyors to ask more awkward questions about movement and cracks. **My take:** if you're selling a home with a history of cracks or sticky doors, get the paperwork and the insurance position sorted before the buyer's surveyor finds it for you.",
+      "url": "https://www.theguardian.com/business/2026/nov/13/uk-insurer-rise-in-subsidence-claims-aviva-hastings-direct-axa",
+      "source": "Guardian Property",
+      "headline": "Hot summer, cracked walls: subsidence claims are surging"
+    },
+    {
+      "section": "Elsewhere",
+      "text": "A global Microsoft outage hit hospitals, GPs, police forces and property agents across the UK, disrupting email and other IT facilities. Those affected have had to find workarounds, and the article sets out how each service has coped. **Why it matters:** if your diary, valuations and client emails all live in one Microsoft system, a bad day becomes a lost day. **My take:** it's a fair reminder that a single supplier can take down a whole office, so a plan B is worth having, even if it's just a printed list of key contacts and viewing times.",
+      "url": "https://www.theguardian.com/technology/2026/nov/13/how-microsoft-outage-has-affected-key-public-services-in-the-uk",
+      "source": "Guardian Property",
+      "headline": "Microsoft outage leaves agents and public services scrambling"
+    },
+    {
+      "section": "Quick hits",
+      "headline": "Homes for sale near cosy pubs, from a Cornish cottage close to a Doc Martin filming location to a central London duplex sitting above a historic pub. Good material for a Sunday scroll and a nice tool for pitching the lifestyle angle to buyers.",
+      "text": "Homes for sale near cosy pubs, from a Cornish cottage close to a Doc Martin filming location to a central London duplex sitting above a historic pub. Good material for a Sunday scroll and a nice tool for pitching the lifestyle angle to buyers.",
+      "url": "https://www.theguardian.com/money/gallery/2026/nov/13/homes-for-sale-close-to-cosy-pubs-in-england-in-pictures",
+      "source": "Guardian Property"
+    },
+    {
+      "section": "Quick hits",
+      "headline": "Insurers are seeing the subsidence wave first, so if clients ask why their premiums are moving, the claims data is the reason to point to.",
+      "text": "Insurers are seeing the subsidence wave first, so if clients ask why their premiums are moving, the claims data is the reason to point to.",
+      "url": "https://www.theguardian.com/business/2026/nov/13/uk-insurer-rise-in-subsidence-claims-aviva-hastings-direct-axa",
+      "source": "Guardian Property"
+    }
+  ],
+  "problems": [
+    "is 429 words; it must be 500 to 800"
+  ],
+  "words": 429
+}
