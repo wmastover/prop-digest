@@ -1,0 +1,10 @@
+{
+  "date": "2026-11-15",
+  "subject": "[Prop Digest] Quiet one",
+  "model": "anthropic/claude-haiku-5.5",
+  "gathered": 2,
+  "quiet": true,
+  "test": false,
+  "stories": [],
+  "problems": []
+}
