@@ -1,0 +1,61 @@
+{
+  "date": "2026-11-16",
+  "subject": "[Prop Digest] Sellers cut prices as mortgage rates bite",
+  "model": "anthropic/claude-haiku-5.5",
+  "gathered": 7,
+  "test": false,
+  "opener": "Monday, and the sellers are blinking first. Asking prices are dropping, the Tenant Fees Act has had its homework marked, and the Microsoft outage is still a sore subject for anyone who had a move on Friday. It's a short list today, so there's time for a proper coffee. Coffee up, let's go.",
+  "stories": [
+    {
+      "section": "The big one",
+      "text": "Rightmove's House Price Index shows a bigger than usual dip in asking prices for November, and Colleen Babcock puts the blame on higher mortgage rates. Fewer buyers can comfortably afford the monthly payments, so sellers are knocking money off to get anyone through the door. Asking prices are usually the first thing to move, so this is an early warning rather than a final verdict. **Why it matters:** if sellers are cutting now, the spring bounce everyone's been hoping for looks a lot less likely. Watch whether the cuts turn into agreed sales or just sit on the portal getting stale.",
+      "url": "https://thenegotiator.co.uk/news/uk-housing-market-news/sellers-cut-asking-prices-as-high-mortgage-rates-restrict-buying-power/?utm_source=rss&utm_medium=rss&utm_campaign=sellers-cut-asking-prices-as-high-mortgage-rates-restrict-buying-power",
+      "source": "The Negotiator",
+      "headline": "Sellers cut asking prices as high mortgage rates restrict buying power"
+    },
+    {
+      "section": "Rules and politics",
+      "text": "The revised Government guidance confirms what landlords and agents can charge for contract breaches and cleaning. The summary is short on detail, so it's worth reading the full guidance before you quote any figure to a client or a landlord. Anyone who has been guessing at the rules on break fees or cleaning charges now has something official to check against. **Why it matters:** the Tenant Fees Act is the rulebook that gets agents into trouble when they get it wrong, so clear guidance protects the honest ones and makes the sharp ones easier to spot. Read the detail before the next client asks.",
+      "url": "https://thenegotiator.co.uk/news/rental-market/tenant-fees-act-guidance-clarifies-contract-and-cleaning-rules/?utm_source=rss&utm_medium=rss&utm_campaign=tenant-fees-act-guidance-clarifies-contract-and-cleaning-rules",
+      "source": "The Negotiator",
+      "headline": "Tenant Fees Act guidance clarifies contract and cleaning rules"
+    },
+    {
+      "section": "The numbers",
+      "text": "Only 11% of company landlords plan to add to their current portfolio in the next year, according to Allison Buckley of Kensington Mortgages. That's a sharp pull-back from the investors who were supposed to be the new big money in lettings. The figure is a survey result from one lender's commentary, so treat it as a strong signal rather than a precise measure. **Why it matters:** if corporate buyers step back, the lettings pipeline gets thinner, and agents who have been counting on them for stock and growth need a plan B. My take: a shrinking appetite from the big players is bad news for anyone who has been selling the corporate landlord story.",
+      "url": "https://thenegotiator.co.uk/news/rental-market/company-landlords-drop-portfolio-expansion-plans/?utm_source=rss&utm_medium=rss&utm_campaign=company-landlords-drop-portfolio-expansion-plans",
+      "source": "The Negotiator",
+      "headline": "Company landlords drop portfolio expansion plans"
+    },
+    {
+      "section": "Portals and big agencies",
+      "text": "Agents lost Outlook email and Teams on Friday when Microsoft systems failed, right on one of the busiest days of the month for completions and moves. Email and video calls are the lifeblood of a sales or lettings day, so a few hours offline means a lot of frantic phone calls. It's a reminder that most of the trade runs on one supplier's software. **Why it matters:** one outage can stop a whole branch network, so anyone who hasn't got a backup way of reaching clients and solicitors should sort one out before the next one hits.",
+      "url": "https://thenegotiator.co.uk/news/agencies-people-news/estate-agents-grapple-with-major-it-outage-on-moving-day/?utm_source=rss&utm_medium=rss&utm_campaign=estate-agents-grapple-with-major-it-outage-on-moving-day",
+      "source": "The Negotiator",
+      "headline": "Estate agents grapple with major IT outage on moving day"
+    },
+    {
+      "section": "PropTech money",
+      "text": "Parapet Intelligence reckons about one in four proptech firms doesn't tell website visitors what they actually do, because they assume everyone speaks their language. The warning is aimed at firms that assume every visitor already knows the industry lingo. Plenty of agents and buyers will bounce off a homepage that needs a glossary. **Why it matters:** if you're selling software to estate agents, your first sentence has to make sense to a branch manager, not just a fellow founder. Honest take: if your homepage needs a glossary, you've got a marketing problem, not a product problem.",
+      "url": "https://thenegotiator.co.uk/news/proptech/one-in-four-proptech-firms-fail-to-tell-website-visitors-what-they-actually-do/?utm_source=rss&utm_medium=rss&utm_campaign=one-in-four-proptech-firms-fail-to-tell-website-visitors-what-they-actually-do",
+      "source": "The Negotiator",
+      "headline": "Quarter of proptech companies don't explain what they do"
+    },
+    {
+      "section": "Elsewhere",
+      "text": "The work and pensions secretary says the support currently on offer for young people is too vague, and backs a legal right to it. It's not a property story, but it's the kind of policy that shapes who can save for a deposit and who can rent. Worth knowing if your clients are the first-time buyers and young renters in the room.",
+      "url": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "headline": "Minister backs legal right to job support for young people"
+    },
+    {
+      "section": "Quick hits",
+      "headline": "Three Andrews staff have taken regional roles with WIEA and Propertymark. Good for Andrews, and a reminder that the trade bodies still need people who actually work the floor.",
+      "text": "Three Andrews staff have taken regional roles with WIEA and Propertymark. Good for Andrews, and a reminder that the trade bodies still need people who actually work the floor.",
+      "url": "https://thenegotiator.co.uk/news/agencies-people-news/three-andrews-employees-take-on-industry-representative-roles/?utm_source=rss&utm_medium=rss&utm_campaign=three-andrews-employees-take-on-industry-representative-roles",
+      "source": "The Negotiator"
+    }
+  ],
+  "problems": [],
+  "words": 763
+}
