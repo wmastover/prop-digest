@@ -1,0 +1,96 @@
+{
+  "date": "2026-11-17",
+  "subject": "[Prop Digest] Who owns a property listing, anyway?",
+  "model": "anthropic/claude-haiku-5.5",
+  "gathered": 20,
+  "test": false,
+  "opener": "Tuesday, and the big question is who actually owns a property listing. Plus parents buying million-pound homes outright and a plea for lenders to stop being so picky. Coffee up.",
+  "stories": [
+    {
+      "section": "The big one",
+      "text": "BestAgent founder Charlie Lamdin is defending his site's use of estate agency property details, insisting the basic information isn't anyone's copyright. The summary only gives his side, so we don't know yet what agents or portals are arguing back. **Why it matters:** if the bare facts are fair game, agents' stock becomes raw material for anyone with a scraper and a business plan. Watch whether this turns into a legal fight or just a shouting match on LinkedIn.",
+      "url": "https://thenegotiator.co.uk/news/marketing-news/bestagent-boss-defends-use-of-estate-agency-property-listings/?utm_source=rss&utm_medium=rss&utm_campaign=bestagent-boss-defends-use-of-estate-agency-property-listings",
+      "source": "The Negotiator",
+      "headline": "BestAgent says basic listing details aren't anyone's copyright"
+    },
+    {
+      "section": "Rules and politics",
+      "text": "Roma Sharma of Rushbrook says landlords are putting tenanted homes on the market faster than before. **Why it matters:** the Budget tax changes are now showing up in stock levels, which is exactly the exodus agents were warning about. Expect more instructions on tenanted properties, and more sales that come with sitting tenants.",
+      "url": "https://thenegotiator.co.uk/news/rental-market/landlords-sell-up-after-budget-tax-hikes/?utm_source=rss&utm_medium=rss&utm_campaign=landlords-sell-up-after-budget-tax-hikes",
+      "source": "The Negotiator",
+      "headline": "Landlords sell up after Budget tax hikes"
+    },
+    {
+      "section": "The numbers",
+      "text": "Savills says households aged 65 and over hold £2.25tn of the UK's £4.29tn owner-occupied equity. Relatively few are downsizing, even though they released £20.8bn of equity last year. **Why it matters:** the wealth is there, but people aren't moving, so the sellers agents need aren't coming out of the woodwork on their own.",
+      "url": "https://propertyindustryeye.com/over-65s-hold-2-25tn-in-property-wealth-but-few-are-downsizing/",
+      "source": "Property Industry EYE",
+      "headline": "Over-65s sit on £2.25tn of property wealth, but hardly anyone moves"
+    },
+    {
+      "section": "Who said what",
+      "text": "Aaron Shinwell of Nottingham Building Society says non-standard borrowers should get a chance to explain their income. Fair enough, and it's the kind of thing brokers have been saying for years. The question is whether lenders actually change their process or just write a nicer policy document.",
+      "url": "https://thenegotiator.co.uk/news/products-services-news/mortgage-lenders-urged-to-adapt-to-non-standard-borrowers/?utm_source=rss&utm_medium=rss&utm_campaign=mortgage-lenders-urged-to-adapt-to-non-standard-borrowers",
+      "source": "The Negotiator",
+      "headline": "Lenders told to give non-standard borrowers a proper hearing"
+    },
+    {
+      "section": "Who said what",
+      "text": "Mark Pollack of Aston Chase says some parents are buying homes outright for their children, with gifts running into the millions. Take that as one agent's observation, not a market trend with numbers behind it. It's still a nice reminder that the Bank of Mum and Dad is now a serious buyer.",
+      "url": "https://thenegotiator.co.uk/news/uk-housing-market-news/parents-are-increasingly-buying-children-million-pound-homes-outright/?utm_source=rss&utm_medium=rss&utm_campaign=parents-are-increasingly-buying-children-million-pound-homes-outright",
+      "source": "The Negotiator",
+      "headline": "Parents are increasingly buying kids million-pound homes outright"
+    },
+    {
+      "section": "Challengers",
+      "text": "Fintech platform Payr has launched a tool that gives tenants Avios points for every month their rent goes in on time. It's a cute way to make rent feel less like dead money. **Why it matters:** if tenants start treating their landlord's bank details as a loyalty scheme, rent payment data gets more valuable, and so does whoever holds it.",
+      "url": "https://thenegotiator.co.uk/news/rental-market/tenants-can-now-earn-avios-when-paying-rent-on-time/?utm_source=rss&utm_medium=rss&utm_campaign=tenants-can-now-earn-avios-when-paying-rent-on-time",
+      "source": "The Negotiator",
+      "headline": "Rent payers can now earn Avios for paying on time"
+    },
+    {
+      "section": "Elsewhere",
+      "text": "The portfolio has 12 student accommodation assets, mostly in London zone one, plus some in Manchester and Liverpool. Commercial, but student housing keeps pulling in big money.",
+      "url": "https://www.propertyweek.com/news/gsa-buys-75-stake-in-sanctuary-pbsa-portfolio-in-600m-jv",
+      "source": "Property Week",
+      "headline": "GSA buys 75% of Sanctuary student portfolio in £600m JV"
+    },
+    {
+      "section": "Elsewhere",
+      "text": "The City office is fully let to Clifford Chance until 2046, which is a long lease and a safe-looking income. Big-ticket, but nothing for the residential desk to act on.",
+      "url": "https://www.propertyweek.com/news/gpe-sells-clifford-chances-london-headquarters-to-rothesay-for-422-3m",
+      "source": "Property Week",
+      "headline": "GPE sells Clifford Chance's London HQ to Rothesay for £422.3m"
+    },
+    {
+      "section": "Quick hits",
+      "headline": "Waterfords in Surrey took to the phones on moving day when an IT outage knocked out email. Old school, but it worked.",
+      "text": "Waterfords in Surrey took to the phones on moving day when an IT outage knocked out email. Old school, but it worked.",
+      "url": "https://thenegotiator.co.uk/news/agencies-people-news/agents-react-to-it-outage-using-old-school-methods/?utm_source=rss&utm_medium=rss&utm_campaign=agents-react-to-it-outage-using-old-school-methods",
+      "source": "The Negotiator"
+    },
+    {
+      "section": "Quick hits",
+      "headline": "ESTAS has added dedicated self-employed categories to its 2027 awards, as the self-employed agent market keeps growing.",
+      "text": "ESTAS has added dedicated self-employed categories to its 2027 awards, as the self-employed agent market keeps growing.",
+      "url": "https://propertyindustryeye.com/self-employed-estate-agents-get-dedicated-categories-at-2027-estas-awards/",
+      "source": "Property Industry EYE"
+    },
+    {
+      "section": "Quick hits",
+      "headline": "BBC piece on people who can't afford a home alone buying with strangers. Co-ownership with mates is a growing headache for anyone drafting the paperwork.",
+      "text": "BBC piece on people who can't afford a home alone buying with strangers. Co-ownership with mates is a growing headache for anyone drafting the paperwork.",
+      "url": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "section": "Quick hits",
+      "headline": "BGY has won approval on appeal for 72 new homes and 16,500 sq ft of affordable creative workspace at Vittoria Wharf in Fish Island.",
+      "text": "BGY has won approval on appeal for 72 new homes and 16,500 sq ft of affordable creative workspace at Vittoria Wharf in Fish Island.",
+      "url": "https://www.propertyweek.com/news/bgy-wins-planning-for-vittoria-wharf-mixed-use-site-on-appeal",
+      "source": "Property Week"
+    }
+  ],
+  "problems": [],
+  "words": 703
+}
