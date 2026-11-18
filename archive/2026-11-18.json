@@ -1,0 +1,89 @@
+{
+  "date": "2026-11-18",
+  "subject": "[Prop Digest] Price caps shut plenty of homes out",
+  "model": "anthropic/claude-haiku-5.5",
+  "gathered": 22,
+  "test": false,
+  "opener": "Wednesday, and the First Homes price caps have a nasty sting in them. Plus a lender loosening its grip on first-time buyers and an ad watchdog telling OnTheMarket to tidy up. Coffee's still hot, so get stuck in.",
+  "stories": [
+    {
+      "section": "The big one",
+      "text": "The price caps on the Your First Home scheme will exclude many properties, according to Andy Morrison of UKPD. If a home sits above the cap, a first-time buyer can't use the scheme to buy it, however much they want it. **Why it matters:** the scheme only works if the homes it covers are the ones people actually buy. If the caps cut out much of the stock in your patch, expect more frustration when the scheme gets pitched as the answer.",
+      "url": "https://thenegotiator.co.uk/news/products-services-news/price-caps-set-to-exclude-homes-from-first-time-buyer-scheme/?utm_source=rss&utm_medium=rss&utm_campaign=price-caps-set-to-exclude-homes-from-first-time-buyer-scheme",
+      "source": "The Negotiator",
+      "headline": "Price caps on Your First Home will leave many homes ineligible"
+    },
+    {
+      "section": "Rules and politics",
+      "text": "First-time buyers can now apply to borrow up to six times their income with Santander, subject to eligibility. **Why it matters:** more borrowing power at the bottom end usually means more offers and more pressure on prices, so watch whether the other big lenders follow.",
+      "url": "https://thenegotiator.co.uk/news/products-services-news/boost-for-buyers-as-santander-raises-loan-to-income-ratio/?utm_source=rss&utm_medium=rss&utm_campaign=boost-for-buyers-as-santander-raises-loan-to-income-ratio",
+      "source": "The Negotiator",
+      "headline": "Santander lifts first-time buyer borrowing to six times income"
+    },
+    {
+      "section": "Rules and politics",
+      "text": "The NRLA's Ben Beadle warns that arrears will rise as higher tax on rental income starts to bite next year. **Why it matters:** this is the squeeze the Renters' Rights Act was always going to test. Landlords under tax pressure have less room to carry a struggling tenant.",
+      "url": "https://thenegotiator.co.uk/news/rental-market/rent-arrears-is-top-reason-why-landlords-seek-possession/?utm_source=rss&utm_medium=rss&utm_campaign=rent-arrears-is-top-reason-why-landlords-seek-possession",
+      "source": "The Negotiator",
+      "headline": "Rent arrears are now the top reason landlords seek possession"
+    },
+    {
+      "section": "Portals and big agencies",
+      "text": "The Advertising Standards Authority has told OnTheMarket and Edward Mellor to correct misleading adverts for shared ownership homes. The ruling is about the ads, not the homes. **Why it matters:** the ASA is clearly watching how shared ownership gets sold, so check your own listings before someone else does.",
+      "url": "https://thenegotiator.co.uk/news/marketing-news/onthemarket-and-large-agency-ordered-to-change-misleading-ads/?utm_source=rss&utm_medium=rss&utm_campaign=onthemarket-and-large-agency-ordered-to-change-misleading-ads",
+      "source": "The Negotiator",
+      "headline": "OnTheMarket and Edward Mellor told to fix shared ownership ads"
+    },
+    {
+      "section": "Challengers",
+      "text": "Letting platform Propoly says credit history plays a significant role in tenant referencing outcomes. It's a platform talking up its own data, so take the framing with a pinch of salt. **Why it matters:** if credit is the main blocker, agents who explain outcomes early will spend less time defending decisions.",
+      "url": "https://thenegotiator.co.uk/news/rental-market/bad-credit-linked-to-most-tenant-referencing-failures/?utm_source=rss&utm_medium=rss&utm_campaign=bad-credit-linked-to-most-tenant-referencing-failures",
+      "source": "The Negotiator",
+      "headline": "Propoly says credit history drives most referencing failures"
+    },
+    {
+      "section": "Elsewhere",
+      "text": "Landsec plans an 18-month freeze on major residential and office developments, cutting committed development exposure by 80% to £200m by March. The firm says \"risks on returns on prospective future projects remain elevated\". **Why it matters:** when a FTSE heavyweight stops building, developers are clearly struggling to make the numbers work.",
+      "url": "https://www.propertyweek.com/news/landsec-freezes-major-residential-and-office-development",
+      "source": "Property Week",
+      "headline": "Landsec freezes major residential and office development for 18 months"
+    },
+    {
+      "section": "Elsewhere",
+      "text": "Planning fees rise in December and again in April, and Newsteer warns this will create further uncertainty. Smaller housebuilders have the least room to absorb the extra cost.",
+      "url": "https://www.propertyweek.com/news/planning-fee-rises-creates-further-uncertainty-newsteer-warns",
+      "source": "Property Week",
+      "headline": "Planning fee rises could hit SME housebuilders hardest"
+    },
+    {
+      "section": "Elsewhere",
+      "text": "A tribunal has dismissed Almacantar's appeal over recovering leaseholder costs at Centre Point. It rejected the argument that the duty to remediate unsafe cladding only covered fire risks. **Why it matters:** the ruling widens remediation duties, which is bad news for developers and good news for leaseholders footing the bill.",
+      "url": "https://www.propertyweek.com/news/tribunal-dismisses-almacantars-bsa-appeal-to-recover-leaseholder-costs",
+      "source": "Property Week",
+      "headline": "Almacantar loses cladding cost appeal over Centre Point"
+    },
+    {
+      "section": "Elsewhere",
+      "text": "The Guardian reports that Anthropic's IPO could fuel a rush of tech money into London's high-end property market. Buying agent Jo Eccles says agents once assumed a young tech entrepreneur with a big budget was after a one-bed flat. **Why it matters:** the prime London agents who adapt to who's actually buying will win the next wave.",
+      "url": "https://www.theguardian.com/business/2026/nov/17/millionaire-factory-anthropic-ipo-set-to-fuel-ai-gold-rush-in-londons-high-end-property-market",
+      "source": "Guardian Property",
+      "headline": "Anthropic float could pour AI money into London's top end"
+    },
+    {
+      "section": "Quick hits",
+      "headline": "Connells Group is pledging 1,000 work experience placements for young people across its businesses.",
+      "text": "Connells Group is pledging 1,000 work experience placements for young people across its businesses.",
+      "url": "https://thenegotiator.co.uk/news/agencies-people-news/major-estate-agency-pledges-1000-work-experience-placements-for-young-people/?utm_source=rss&utm_medium=rss&utm_campaign=major-estate-agency-pledges-1000-work-experience-placements-for-young-people",
+      "source": "The Negotiator"
+    },
+    {
+      "section": "Quick hits",
+      "headline": "Aaron Curtis argues managing agents should be judged on performance, not just cost, as leasehold reform gets going.",
+      "text": "Aaron Curtis argues managing agents should be judged on performance, not just cost, as leasehold reform gets going.",
+      "url": "https://thenegotiator.co.uk/guest-blog/reforms-leaseholders-want-better-run-not-just-cheaper/?utm_source=rss&utm_medium=rss&utm_campaign=reforms-leaseholders-want-better-run-not-just-cheaper",
+      "source": "The Negotiator"
+    }
+  ],
+  "problems": [],
+  "words": 669
+}
