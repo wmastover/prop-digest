@@ -1,0 +1,82 @@
+{
+  "date": "2026-11-19",
+  "subject": "[Prop Digest] Leasehold bill lands, and the ground rent cap is real",
+  "model": "anthropic/claude-haiku-5.5",
+  "gathered": 21,
+  "test": false,
+  "opener": "Thursday, and the leasehold bill has finally hit Parliament with a £250 ground rent cap in it. Plus inflation at a 12-month high. Coffee's hot.",
+  "stories": [
+    {
+      "section": "The big one",
+      "text": "The Commonhold and Leasehold Reform Bill has been published and goes into Parliament. It caps ground rents at £250, curbs admin fees, and makes commonhold the default for new flats, with the ground rent cap due from 2028. Housing minister Matthew Pennycook called it ‘historic’ and said it “marks the beginning of the end for the feudal leasehold system”. **Why it matters:** if this survives the Commons, new-build flat sales get less fiddly and freeholders lose their easiest income. Watch how the admin fee curbs are written, because that's where the real money is.",
+      "url": "https://www.theguardian.com/society/2026/nov/18/leaseholders-in-england-and-wales-to-have-ground-rent-capped-in-2028",
+      "source": "Guardian Property",
+      "headline": "Ground rents capped at £250 as leasehold bill enters Parliament"
+    },
+    {
+      "section": "Rules and politics",
+      "text": "The bill would eventually ban the sale of virtually all new leasehold properties and make it easier to extend and buy out leases. **Why it matters:** the ground rent cap is the headline, but the end of new leasehold flats changes what developers sell.",
+      "url": "https://www.theguardian.com/society/2026/nov/18/leaseholders-in-england-and-wales-to-have-ground-rent-capped-in-2028",
+      "source": "Guardian Property",
+      "headline": "Leasehold bill also ends most new leasehold flats"
+    },
+    {
+      "section": "Rules and politics",
+      "text": "Nearly 10% of agency websites still present old rules as current, more than six months after the Act came in. **Why it matters:** if your website says the wrong thing, that's the first thing a tenant or regulator will find.",
+      "url": "https://thenegotiator.co.uk/news/regulation-law-news/letting-agencies-fail-to-update-online-information-after-renters-rights-act/?utm_source=rss&utm_medium=rss&utm_campaign=letting-agencies-fail-to-update-online-information-after-renters-rights-act",
+      "source": "The Negotiator",
+      "headline": "Letting agencies still getting Renters’ Rights Act basics wrong online"
+    },
+    {
+      "section": "Rules and politics",
+      "text": "Jennifer Harris of TDS Group says there are major barriers to successfully implementing the 2030 EPC cut-off. **Why it matters:** if the deadline bites before the supply chain catches up, landlords and sellers will be left holding the paperwork.",
+      "url": "https://thenegotiator.co.uk/news/regulation-law-news/government-challenged-to-make-changes-ahead-of-epc-deadline/?utm_source=rss&utm_medium=rss&utm_campaign=government-challenged-to-make-changes-ahead-of-epc-deadline",
+      "source": "The Negotiator",
+      "headline": "Government pressed to fix EPC 2030 deadline"
+    },
+    {
+      "section": "The numbers",
+      "text": "The latest inflation data has raised concerns about further interest rate rises, according to Propertymark's Nathan Emerson, who expects buyers to become more price-sensitive. **Why it matters:** higher rates mean sharper negotiations on price.",
+      "url": "https://thenegotiator.co.uk/news/uk-housing-market-news/blow-for-housing-market-as-inflation-hits-12-month-high/?utm_source=rss&utm_medium=rss&utm_campaign=blow-for-housing-market-as-inflation-hits-12-month-high",
+      "source": "The Negotiator",
+      "headline": "Inflation at a 12-month high, and buyers are about to get twitchy"
+    },
+    {
+      "section": "The numbers",
+      "text": "Land Registry data shows average house price growth was flat in September, with buyer demand still subdued. **Why it matters:** flat prices with weak demand is the combination that makes sellers cut asking prices.",
+      "url": "https://thenegotiator.co.uk/news/uk-housing-market-news/house-price-growth-stalled-in-september/?utm_source=rss&utm_medium=rss&utm_campaign=house-price-growth-stalled-in-september",
+      "source": "The Negotiator",
+      "headline": "House price growth flatlines in September"
+    },
+    {
+      "section": "Portals and big agencies",
+      "text": "Rightmove has launched Agent Pulse, a tool for agents to share views on home buying reforms and its product development. **Why it matters:** smart PR and probably useful feedback. Whether it gets acted on is the test.",
+      "url": "https://thenegotiator.co.uk/news/marketing-news/rightmove-launches-agent-pulse-to-help-agents-share-views-on-industry-developments/?utm_source=rss&utm_medium=rss&utm_campaign=rightmove-launches-agent-pulse-to-help-agents-share-views-on-industry-developments",
+      "source": "The Negotiator",
+      "headline": "Rightmove wants agents to have a say, which is a sensible move"
+    },
+    {
+      "section": "Elsewhere",
+      "text": "Chief exec Jo McNamara says the restructure will save £5m to £7m a year from 2028, with more emphasis on AI and potential job cuts. **Why it matters:** a big landlord leaning on AI for headcount is a story the rest of the industry will copy.",
+      "url": "https://www.propertyweek.com/news/british-land-confirms-organisational-restructure-as-earnings-rise",
+      "source": "Property Week",
+      "headline": "British Land cuts costs and jobs, with AI doing more of the heavy lifting"
+    },
+    {
+      "section": "Quick hits",
+      "headline": "Property Industry EYE's headline promises an ‘industry backlash’ over leasehold reform, but the write-up only covers the campaigners' celebrations.",
+      "text": "Property Industry EYE's headline promises an ‘industry backlash’ over leasehold reform, but the write-up only covers the campaigners' celebrations.",
+      "url": "https://propertyindustryeye.com/eye-newsflash-government-unveils-sweeping-leasehold-reforms-as-campaigners-celebrate-and-industry-backlash-erupts/",
+      "source": "Property Industry EYE"
+    },
+    {
+      "section": "Quick hits",
+      "headline": "Workspace Group's losses have widened to £121.2m, driven by a 6.6% fall in portfolio value, though it says its turnaround is progressing.",
+      "text": "Workspace Group's losses have widened to £121.2m, driven by a 6.6% fall in portfolio value, though it says its turnaround is progressing.",
+      "url": "https://www.propertyweek.com/news/677051",
+      "source": "Property Week"
+    }
+  ],
+  "problems": [],
+  "words": 579
+}
