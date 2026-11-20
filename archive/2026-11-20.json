@@ -1,0 +1,75 @@
+{
+  "date": "2026-11-20",
+  "subject": "[Prop Digest] Yopa's boss walks off BestAgent board",
+  "model": "anthropic/claude-haiku-5.5",
+  "gathered": 9,
+  "test": false,
+  "opener": "Friday, and the BestAgent row has claimed another scalp. Plus a forecast that says deals are about to bounce, which sounds lovely until you remember who's making it. Coffee's hot.",
+  "stories": [
+    {
+      "section": "The big one",
+      "text": "Verona Frankish boss Charlie Lamdin has stepped down from BestAgent's advisory board. It follows several days of criticism from estate agents over how Yopa used their listings, and a copyright argument that's been rattling around the trade. **Why it matters:** this is a rare crack in the challenger camp, and it puts the spotlight back on whether listing data can be treated as anyone's property. Watch whether BestAgent's other backers follow him out.",
+      "url": "https://thenegotiator.co.uk/news/agencies-people-news/breaking-yopa-ceo-resigns-from-bestagent-advisory-board/?utm_source=rss&utm_medium=rss&utm_campaign=breaking-yopa-ceo-resigns-from-bestagent-advisory-board",
+      "source": "The Negotiator",
+      "headline": "Yopa boss quits BestAgent advisory board after listings row"
+    },
+    {
+      "section": "The numbers",
+      "text": "Kate Faulkner says sales activity is slowing, which is bad news for sellers, while affordability has improved for buyers. **Why it matters:** sellers hoping for a bidding war will be disappointed, and buyers with a bit of cash have some room to negotiate again.",
+      "url": "https://thenegotiator.co.uk/columns/kate-faulkner/property-market-update-momentum-slows-but-buyers-gain-ground/?utm_source=rss&utm_medium=rss&utm_campaign=property-market-update-momentum-slows-but-buyers-gain-ground",
+      "source": "The Negotiator",
+      "headline": "Momentum slows, but buyers get some breathing room"
+    },
+    {
+      "section": "The numbers",
+      "text": "Nick Huntley of TwentyEA says the Renters' Rights Act hasn't yet cut the amount of rental stock on the market, but demand has dropped. **Why it matters:** more homes chasing fewer tenants is the opposite of what landlords were promised, and it will squeeze rent growth if it holds.",
+      "url": "https://thenegotiator.co.uk/news/rental-market/rental-supply-hits-seven-year-high-and-outpaces-demand/?utm_source=rss&utm_medium=rss&utm_campaign=rental-supply-hits-seven-year-high-and-outpaces-demand",
+      "source": "The Negotiator",
+      "headline": "Rental supply hits a seven-year high and outruns demand"
+    },
+    {
+      "section": "Who said what",
+      "text": "Richard Donnell of Zoopla says families should start talking about downsizing before costly repairs force the decision. He's describing what he calls the 'property sandwich generation', squeezed between ageing parents and their own kids. **Why it matters:** a useful pitch for agents with older clients, if you can get the conversation started early.",
+      "url": "https://thenegotiator.co.uk/news/uk-housing-market-news/britains-property-sandwich-generation-is-revealed/?utm_source=rss&utm_medium=rss&utm_campaign=britains-property-sandwich-generation-is-revealed",
+      "source": "The Negotiator",
+      "headline": "Zoopla: start the downsizing chat before the repairs bill lands"
+    },
+    {
+      "section": "Who said what",
+      "text": "Adam Day of eXp UK expects the number of property deals to rise 6.7% next year, after a drop in transaction figures. Forecasts are cheap, and this one is only as good as its assumptions. **My take:** a bounce is plausible, but I'd want to see the mortgage rate picture before I bet the bonus on it.",
+      "url": "https://thenegotiator.co.uk/news/uk-housing-market-news/property-deal-numbers-set-to-bounce-back-next-year/?utm_source=rss&utm_medium=rss&utm_campaign=property-deal-numbers-set-to-bounce-back-next-year",
+      "source": "The Negotiator",
+      "headline": "Adam Day of eXp: transactions to rebound 6.7% next year"
+    },
+    {
+      "section": "Who said what",
+      "text": "Ben Grech, CEO of Reposit, says their analysis shows more tenants turning to credit to pay for a home. **Why it matters:** if deposits are going on credit cards, the arrears and affordability problems are about to get worse, not better.",
+      "url": "https://thenegotiator.co.uk/news/rental-market/renters-are-getting-into-debt-to-pay-deposits-warning/?utm_source=rss&utm_medium=rss&utm_campaign=renters-are-getting-into-debt-to-pay-deposits-warning",
+      "source": "The Negotiator",
+      "headline": "Renters are borrowing to pay deposits"
+    },
+    {
+      "section": "Who said what",
+      "text": "James Cleverly, the Tory candidate for London Mayor, says cutting red tape and taxes could knock £100,000 off new-build prices in the capital. **My take:** a big number with no mechanism attached yet. Mayoral pledges have a habit of quietly disappearing after polling day.",
+      "url": "https://thenegotiator.co.uk/news/land-new-homes/tory-mayor-hopeful-pledges-100000-cut-in-house-prices/?utm_source=rss&utm_medium=rss&utm_campaign=tory-mayor-hopeful-pledges-100000-cut-in-house-prices",
+      "source": "The Negotiator",
+      "headline": "Cleverly promises £100,000 off London new-builds"
+    },
+    {
+      "section": "Quick hits",
+      "headline": "Renters' Rights Act: TwentyEA's view is that supply is up and demand is down, so the rental market looks soft for now.",
+      "text": "Renters' Rights Act: TwentyEA's view is that supply is up and demand is down, so the rental market looks soft for now.",
+      "url": "https://thenegotiator.co.uk/news/rental-market/rental-supply-hits-seven-year-high-and-outpaces-demand/?utm_source=rss&utm_medium=rss&utm_campaign=rental-supply-hits-seven-year-high-and-outpaces-demand",
+      "source": "The Negotiator"
+    },
+    {
+      "section": "Quick hits",
+      "headline": "Property Industry EYE asks where BestAgent goes from here after the Yopa exit. Good question, and the answer probably depends on who else is holding a seat.",
+      "text": "Property Industry EYE asks where BestAgent goes from here after the Yopa exit. Good question, and the answer probably depends on who else is holding a seat.",
+      "url": "https://propertyindustryeye.com/another-blow-for-charlie-lamdin-as-yopa-boss-quits-bestagent-board/",
+      "source": "Property Industry EYE"
+    }
+  ],
+  "problems": [],
+  "words": 567
+}
